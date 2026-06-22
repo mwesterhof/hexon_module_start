@@ -1,0 +1,2197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<voertuig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://eigenwebsite.dv.nl/docs/2.25/voertuig.xsd" actie="add" versie="2.25">
+	<voertuignr_hexon>51942414</voertuignr_hexon>
+	<voertuignr>20943140-AWD</voertuignr>
+	<voertuignr_klant>NH3937</voertuignr_klant>
+	<hexon_id>1582e8fb-0e63-440c-8de2-0e8573a26fb5</hexon_id>
+	<klantnummer>33219</klantnummer>
+	<invoerdatum>10-03-2026</invoerdatum>
+	<kenteken>BTLG08</kenteken>
+	<merk>DAF</merk>
+	<model/>
+	<type>LF 55.220 4x2 Kogelkoppeling + Laadklep</type>
+	<uitrustingsniveau/>
+	<toevoeging/>
+	<merk_orig>DAF</merk_orig>
+	<model_orig>LF 55.220 4x2 Kogelkoppeling + Laadklep</model_orig>
+	<type_orig></type_orig>
+	<oud_model/>
+	<modeljaar>2026</modeljaar>
+	<voertuigsoort>VRACHTWAGEN</voertuigsoort>
+	<carrosserie>Gesloten bak</carrosserie>
+	<carrosserie_orig>Gesloten bak</carrosserie_orig>
+	<aantal_deuren/>
+	<tellerstand eenheid="K">215118</tellerstand>
+	<rdw_tellerrapport_url/>
+	<brandstof>D</brandstof>
+	<transmissie>A</transmissie>
+	<aantal_versnellingen>6</aantal_versnellingen>
+	<btw_marge>B</btw_marge>
+	<nieuw_voertuig>n</nieuw_voertuig>
+	<laktint/>
+	<kleur_nederlands/>
+	<kleur_engels/>
+	<kleur_duits/>
+	<kleur_frans/>
+	<kleur_spaans/>
+	<kleur_portugees/>
+	<kleur_italiaans/>
+	<kleur_grieks/>
+	<kleur_russisch/>
+	<kleur_roemeens/>
+	<kleur_hongaars/>
+	<kleur_pools/>
+	<kleur_tsjechisch/>
+	<kleur_bulgaars/>
+	<kleur_kroatisch/>
+	<kleur_deens/>
+	<kleur_slowaaks/>
+	<kleur_turks/>
+	<kleur_fins/>
+	<kleur_zweeds/>
+	<kleur_noors/>
+	<basiskleur>wit</basiskleur>
+	<laksoort/>
+	<constructiedatum/>
+	<bouwjaar>2007</bouwjaar>
+	<datum_deel_1>07-11-2007</datum_deel_1>
+	<datum_deel_1a>07-11-2007</datum_deel_1a>
+	<datum_deel_1b>16-02-2026</datum_deel_1b>
+	<verkoopprijs_particulier>
+		<prijzen land="nl">
+			<prijs nr="1">
+				<bedrag>6750</bedrag>
+				<munteenheid>EUR</munteenheid>
+				<btw>ex</btw>
+				<btw_percentage>21</btw_percentage>
+				<bpm/>
+			</prijs>
+			<prijs nr="2">
+				<bedrag>6751</bedrag>
+				<munteenheid>EUR</munteenheid>
+				<btw>ex</btw>
+				<btw_percentage>22</btw_percentage>
+				<bpm/>
+			</prijs>
+		</prijzen>
+	</verkoopprijs_particulier>
+	<actieprijs>
+		<prijzen/>
+	</actieprijs>
+	<verkoopprijs_handel>
+		<prijzen/>
+	</verkoopprijs_handel>
+	<veiling/>
+	<wederverkoop_toegestaan/>
+	<type_hybride/>
+	<hybride_aandrijving/>
+	<plugin_hybride/>
+	<aanwezige_accu/>
+	<accutype/>
+	<accu_laadvermogen/>
+	<accu_snellaadvermogen/>
+	<accu_laadtijd/>
+	<accu_snellaadtijd/>
+	<accu_laadsnelheid/>
+	<accu_snellaadsnelheid/>
+	<accu_conditie/>
+	<aantal_fasen_acculader/>
+	<stekkeraansluiting/>
+	<stekkeraansluiting_snellader/>
+	<geschikt_voor_snelladen/>
+	<apk tot="23-07-2026" bij_aflevering="n"></apk>
+	<au-datum/>
+	<hu-datum/>
+	<co2_klasse_de/>
+	<co2_klasse_lege_accu_de/>
+	<co2_kosten_gemiddeld_de/>
+	<co2_kosten_laag_de/>
+	<co2_kosten_hoog_de/>
+	<energiekosten_de/>
+	<hsn/>
+	<tsn/>
+	<schwacke_code/>
+	<massa>7020</massa>
+	<max_trekgewicht/>
+	<cilinder_aantal>6</cilinder_aantal>
+	<cilinder_inhoud>6693</cilinder_inhoud>
+	<vermogen_motor_kw>163</vermogen_motor_kw>
+	<vermogen_motor_pk>222</vermogen_motor_pk>
+	<vermogen_brandstof_kw>163</vermogen_brandstof_kw>
+	<vermogen_brandstof_pk>222</vermogen_brandstof_pk>
+	<vermogen_elektrisch_kw/>
+	<vermogen_elektrisch_pk/>
+	<koppel/>
+	<koppel_elektrisch/>
+	<koppel_brandstof/>
+	<koppelinrichting/>
+	<aandrijfmethode/>
+	<fiscaal_vermogen_fr/>
+	<fiscaal_vermogen_be/>
+	<maximaal_toegelaten_massa/>
+	<aantal_zitplaatsen>2</aantal_zitplaatsen>
+	<bpm_bedrag/>
+	<rest_bpm_bedrag>
+		<prijs nr="">
+			<bedrag>0</bedrag>
+			<munteenheid/>
+			<btw/>
+			<btw_percentage/>
+			<bpm/>
+		</prijs>
+	</rest_bpm_bedrag>
+	<interieurkleur>Donker grijs</interieurkleur>
+	<basisinterieurkleur>grijs</basisinterieurkleur>
+	<bekleding>Stof</bekleding>
+	<plaatsing_stuurwiel/>
+	<aantal_sleutels/>
+	<aantal_handzenders/>
+	<code_pas_sleutel/>
+	<nap_weblabel>n</nap_weblabel>
+	<carpass/>
+	<carpass_url/>
+	<onderhoudsboekjes></onderhoudsboekjes>
+	<locatie_voertuig>Hengelo</locatie_voertuig>
+	<meeneemprijs>
+		<prijzen/>
+	</meeneemprijs>
+	<inkoopprijs>
+		<prijs nr="1">
+			<bedrag>4500</bedrag>
+			<munteenheid>EUR</munteenheid>
+			<btw/>
+			<btw_percentage>21</btw_percentage>
+			<bpm/>
+		</prijs>
+	</inkoopprijs>
+	<bieden_vanaf/>
+	<reserveringsprijs/>
+	<opknapkosten/>
+	<waarderingsprijs/>
+	<kosten_rijklaar/>
+	<gemiddeld_verbruik/>
+	<nedc_brandstofverbruik_gemiddeld/>
+	<wltp_brandstofverbruik_combined/>
+	<wltp_brandstofverbruik_combined_weighted/>
+	<wltp_brandstofverbruik_combined_lege_accu/>
+	<schadevoertuig/>
+	<consignatie/>
+	<demovoertuig/>
+	<wielbasis/>
+	<laadvermogen>7980</laadvermogen>
+	<gvw>15000</gvw>
+	<loopvlakbreedte>285</loopvlakbreedte>
+	<bandhoogte/>
+	<aantal_assen>2</aantal_assen>
+	<draaicirkel/>
+	<lengte/>
+	<breedte>260</breedte>
+	<hoogte/>
+	<vin>XLRAE55GF0L334119</vin>
+	<emissieklasse>4</emissieklasse>
+	<energielabel/>
+	<milieusticker_de/>
+	<milieusticker_fr/>
+	<volautomatisch/>
+	<voortbeweging_zelfstandig/>
+	<verplaatsingsmediums/>
+	<verplaatsingswijzes/>
+	<mobiel>j</mobiel>
+	<bediening/>
+	<generatorvermogen/>
+	<compressorsoort/>
+	<doorvoercapaciteit/>
+	<maximale_reikwijdte/>
+	<voedingsspanning/>
+	<mastlengte/>
+	<bovenarmlengte/>
+	<rupsbandbreedte/>
+	<laadschopinhoud/>
+	<minimale_koeltemperatuur/>
+	<maximale_koeltemperatuur/>
+	<toepassingsmaterialen/>
+	<toepassingsgebieden/>
+	<toepassingsschalen/>
+	<ce_markering/>
+	<staat_algemeen>goed</staat_algemeen>
+	<staat_technisch/>
+	<staat_optisch/>
+	<staat_interieur/>
+	<diepte/>
+	<rompmateriaal/>
+	<ligplaats/>
+	<aantal_staanplaatsen/>
+	<merk_motor/>
+	<type_motor/>
+	<land_nieuw/>
+	<aandrijving>motorisch</aandrijving>
+	<prijs_nieuw_herberekend/>
+	<werkbreedte/>
+	<werkhoogte/>
+	<hefhoogte/>
+	<vrije_hefhoogte/>
+	<hefcapaciteit/>
+	<aantal_wielen/>
+	<aantal_ventielen/>
+	<mast/>
+	<mast_aantal_delen/>
+	<voortbeweging></voortbeweging>
+	<chassisvorm/>
+	<besturing/>
+	<fiets_uitvoering/>
+	<typenummer/>
+	<modeldatum_vanaf>2026</modeldatum_vanaf>
+	<modeldatum_tot>2026</modeldatum_tot>
+	<modelcode/>
+	<vorklengte/>
+	<vorkbreedte/>
+	<lastzwaartepunt/>
+	<accucapaciteit/>
+	<accuspanning/>
+	<accubouwjaar/>
+	<accubouwmaand/>
+	<accumerk/>
+	<pomp_aansluitingsmaat/>
+	<attachment_passend_ops/>
+	<hefwerktuigaansluiting/>
+	<snelwisselsysteem>n</snelwisselsysteem>
+	<pantograaf>n</pantograaf>
+	<breker_soort/>
+	<wals_trillend/>
+	<wals_oppervlak/>
+	<serienummer/>
+	<prijstype/>
+	<bieden_toestaan/>
+	<oldtimer/>
+	<onderdeel_geschikt_voor/>
+	<ktype/>
+	<fiets_versnelling/>
+	<vrachtwagen_transmissie></vrachtwagen_transmissie>
+	<powershuttle/>
+	<gesynchroniseerde_transmissie/>
+	<transmissie_groepen/>
+	<maaier_soort/>
+	<aantal_ploegscharen/>
+	<seizoen/>
+	<bedoelde_positie_voor_achter/>
+	<bedoelde_positie_links_rechts/>
+	<minimaal_octaangetal/>
+	<e10_geschikt/>
+	<framehoogte/>
+	<maximale_doorrijhoogte/>
+	<leasevoorstellen/>
+	<asconfiguratie>
+		<as nr="1">
+			<positie>voor</positie>
+			<merk_type>Anders</merk_type>
+			<max_as_last>5800</max_as_last>
+			<bandenmaat>285/70 R19,5</bandenmaat>
+			<loopvlakbreedte/>
+			<bandhoogte/>
+			<velgmaat/>
+			<loadindex/>
+			<snelheidsindex/>
+			<aangedreven>n</aangedreven>
+			<liftas>n</liftas>
+			<dubbellucht>n</dubbellucht>
+			<meesturend>j</meesturend>
+			<differentieelslot>n</differentieelslot>
+			<lichtmetalen_velgen>n</lichtmetalen_velgen>
+			<profiel_banden_perc_links>70</profiel_banden_perc_links>
+			<profiel_banden_perc_rechts>70</profiel_banden_perc_rechts>
+			<profiel_banden_mm/>
+			<reductie/>
+			<remmen>schijf</remmen>
+			<vering>blad</vering>
+		</as>
+		<as nr="2">
+			<positie>achter</positie>
+			<merk_type>Anders</merk_type>
+			<max_as_last>10500</max_as_last>
+			<bandenmaat>285/70 R19,5</bandenmaat>
+			<loopvlakbreedte/>
+			<bandhoogte/>
+			<velgmaat/>
+			<loadindex/>
+			<snelheidsindex/>
+			<aangedreven>j</aangedreven>
+			<liftas>n</liftas>
+			<dubbellucht>j</dubbellucht>
+			<meesturend>n</meesturend>
+			<differentieelslot>n</differentieelslot>
+			<lichtmetalen_velgen>n</lichtmetalen_velgen>
+			<profiel_banden_perc_links_binnen>70</profiel_banden_perc_links_binnen>
+			<profiel_banden_perc_links_buiten>70</profiel_banden_perc_links_buiten>
+			<profiel_banden_perc_rechts_binnen>70</profiel_banden_perc_rechts_binnen>
+			<profiel_banden_perc_rechts_buiten>70</profiel_banden_perc_rechts_buiten>
+			<profiel_banden_mm/>
+			<reductie/>
+			<remmen>schijf</remmen>
+			<vering>lucht</vering>
+		</as>
+	</asconfiguratie>
+	<asconfiguratie_svg>&lt;?xml version=&quot;1.0&quot;?&gt;
+&lt;svg width=&quot;1024.00&quot; height=&quot;768.00&quot;
+     viewBox= &quot;0 0 1024.000000 768.000000&quot;
+     xmlns=&quot;http://www.w3.org/2000/svg&quot;
+     xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot;&gt;
+&lt;style type=&quot;text/css&quot;&gt;
+&lt;![CDATA[
+
+* {
+	font-family: Arial;
+    fill-opacity: unset!important;
+}
+.axleInfoBottom {
+	stroke:rgb(255,0,0);fill:none;
+}
+.axleInfoTop {
+	stroke:rgb(0,0,255);fill:none;
+}
+]]&gt;
+&lt;/style&gt;
+&lt;rect x=&quot;0.00&quot; y=&quot;0.00&quot; width=&quot;1024.00&quot; height=&quot;768.00&quot; style=&quot;fill:#fff&quot; /&gt;
+&lt;g class=&quot;ddg-title-area&quot; &gt;
+&lt;text x=&quot;20.48&quot; y=&quot;50.27&quot; style=&quot;font-size: 34.909091px;font-family: Arial;&quot; &gt;DAF LF 55.220 4x2 Kogelkoppeling + Laadklep&lt;/text&gt;
+&lt;line x1=&quot;0.00&quot; y1=&quot;60.74&quot; x2=&quot;1024.00&quot; y2=&quot;60.74&quot; style=&quot;stroke:rgb(0,0,0)&quot; /&gt;
+&lt;text x=&quot;20.48&quot; y=&quot;85.18&quot; style=&quot;font-size: 19.200000px;&quot; &gt;Referentienummer: NH3937&lt;/text&gt;
+&lt;/g&gt;
+&lt;g class=&quot;ddg-axle-text&quot; &gt;
+&lt;g class=&quot;ddg-axle-text-top&quot; &gt;
+&lt;g transform=&quot;translate(134.30,222.66)&quot;&gt;
+&lt;g transform=&quot;scale(0.09056000000000011)&quot;&gt;
+&lt;svg height=&quot;100&quot; width=&quot;200&quot;&gt;
+  &lt;polygon points=&quot;0,0 200,0 100,100&quot; style=&quot;fill:grey;stroke:grey;stroke-width:1&quot; /&gt;
+&lt;/svg&gt;
+&lt;/g&gt;
+&lt;/g&gt;
+&lt;g style=&quot;font-size:24.00px;fill:#000;text-anchor:middle;font-family: Arial&quot;&gt;
+&lt;text x=&quot;143.36&quot; y=&quot;129.88&quot; &gt;Anders&lt;/text&gt;
+&lt;text x=&quot;143.36&quot; y=&quot;156.28&quot; &gt;285/70 R19,5&lt;/text&gt;
+&lt;text x=&quot;143.36&quot; y=&quot;182.68&quot; &gt;5.800 kg&lt;/text&gt;
+&lt;text x=&quot;143.36&quot; y=&quot;209.08&quot; &gt;Bladvering&lt;/text&gt;
+&lt;/g&gt;
+&lt;g transform=&quot;translate(871.58,222.66)&quot;&gt;
+&lt;g transform=&quot;scale(0.09056000000000011)&quot;&gt;
+&lt;svg height=&quot;100&quot; width=&quot;200&quot;&gt;
+  &lt;polygon points=&quot;0,0 200,0 100,100&quot; style=&quot;fill:grey;stroke:grey;stroke-width:1&quot; /&gt;
+&lt;/svg&gt;
+&lt;/g&gt;
+&lt;/g&gt;
+&lt;g style=&quot;font-size:24.00px;fill:#000;text-anchor:middle;font-family: Arial&quot;&gt;
+&lt;text x=&quot;880.64&quot; y=&quot;129.88&quot; &gt;Anders&lt;/text&gt;
+&lt;text x=&quot;880.64&quot; y=&quot;156.28&quot; &gt;285/70 R19,5&lt;/text&gt;
+&lt;text x=&quot;880.64&quot; y=&quot;182.68&quot; &gt;10.500 kg&lt;/text&gt;
+&lt;text x=&quot;880.64&quot; y=&quot;209.08&quot; &gt;Luchtvering&lt;/text&gt;
+&lt;/g&gt;
+&lt;/g&gt;
+&lt;g class=&quot;ddg-axle-text-bottom&quot; &gt;
+&lt;/g&gt;
+&lt;/g&gt;
+&lt;g class=&quot;ddg-drawing&quot; &gt;
+&lt;g class=&quot;ddg-background&quot; &gt;
+&lt;g transform=&quot;translate(636.77,222.13)&quot;&gt;
+&lt;g transform=&quot;scale(1.7454545454545454)&quot;&gt;
+&lt;svg version=&quot;1.1&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot; x=&quot;0px&quot; y=&quot;0px&quot; width=&quot;26px&quot;&#13;
+	 height=&quot;220px&quot; viewBox=&quot;0 0 26 220&quot; enable-background=&quot;new 0 0 26 220&quot; xml:space=&quot;preserve&quot;&gt;&#13;
+&lt;g&gt;&#13;
+	&lt;g&gt;&#13;
+		&lt;path fill=&quot;#E6E6E6&quot; fill-opacity=&quot;0.3&quot; d=&quot;M0,88l5,5v34&#13;
+			l-5,5h26l-5-5V93l5-5 M13,121.8c-0.9,0-1.6-0.7-1.6-1.6c0-0.9,0.7-1.6,1.6-1.6c0.9,0,1.6,0.7,1.6,1.6&#13;
+			C14.6,121,13.9,121.8,13,121.8z M13,111.6c-0.9,0-1.6-0.7-1.6-1.6c0-0.9,0.7-1.6,1.6-1.6c0.9,0,1.6,0.7,1.6,1.6&#13;
+			C14.6,110.9,13.9,111.6,13,111.6z M13,101.4c-0.9,0-1.6-0.7-1.6-1.6c0-0.9,0.7-1.6,1.6-1.6c0.9,0,1.6,0.7,1.6,1.6&#13;
+			C14.6,100.7,13.9,101.4,13,101.4z&quot;/&gt;&#13;
+		&#13;
+			&lt;path fill=&quot;none&quot; stroke=&quot;#808080&quot; stroke-miterlimit=&quot;10&quot; d=&quot;&#13;
+			M25.5,131.5l-5-5V111v-2V93.5l5-5 M0.5,88.6l5,4.9V109v2v15.5l-5,4.9 M13,121.8c-0.9,0-1.6-0.7-1.6-1.6c0-0.9,0.7-1.6,1.6-1.6&#13;
+			c0.9,0,1.6,0.7,1.6,1.6C14.6,121,13.9,121.8,13,121.8z M13,101.4c-0.9,0-1.6-0.7-1.6-1.6c0-0.9,0.7-1.6,1.6-1.6&#13;
+			c0.9,0,1.6,0.7,1.6,1.6C14.6,100.7,13.9,101.4,13,101.4z M13,111.6c-0.9,0-1.6-0.7-1.6-1.6c0-0.9,0.7-1.6,1.6-1.6&#13;
+			c0.9,0,1.6,0.7,1.6,1.6C14.6,110.9,13.9,111.6,13,111.6z&quot;/&gt;&#13;
+	&lt;/g&gt;&#13;
+&lt;/g&gt;&#13;
+&lt;/svg&gt;&#13;
+&lt;/g&gt;
+&lt;/g&gt;
+&lt;g transform=&quot;translate(784.22,222.13)&quot;&gt;
+&lt;g transform=&quot;scale(1.7454545454545454)&quot;&gt;
+&lt;svg version=&quot;1.1&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot; x=&quot;0px&quot; y=&quot;0px&quot; width=&quot;26px&quot;&#13;
+	 height=&quot;220px&quot; viewBox=&quot;0 0 26 220&quot; enable-background=&quot;new 0 0 26 220&quot; xml:space=&quot;preserve&quot;&gt;&#13;
+&lt;g&gt;&#13;
+	&lt;g&gt;&#13;
+		&lt;path fill=&quot;#E6E6E6&quot; fill-opacity=&quot;0.3&quot; d=&quot;M0,88l5,5v34&#13;
+			l-5,5h26l-5-5V93l5-5 M13,121.8c-0.9,0-1.6-0.7-1.6-1.6c0-0.9,0.7-1.6,1.6-1.6c0.9,0,1.6,0.7,1.6,1.6&#13;
+			C14.6,121,13.9,121.8,13,121.8z M13,111.6c-0.9,0-1.6-0.7-1.6-1.6c0-0.9,0.7-1.6,1.6-1.6c0.9,0,1.6,0.7,1.6,1.6&#13;
+			C14.6,110.9,13.9,111.6,13,111.6z M13,101.4c-0.9,0-1.6-0.7-1.6-1.6c0-0.9,0.7-1.6,1.6-1.6c0.9,0,1.6,0.7,1.6,1.6&#13;
+			C14.6,100.7,13.9,101.4,13,101.4z&quot;/&gt;&#13;
+		&#13;
+			&lt;path fill=&quot;none&quot; stroke=&quot;#808080&quot; stroke-miterlimit=&quot;10&quot; d=&quot;&#13;
+			M25.5,131.5l-5-5V111v-2V93.5l5-5 M0.5,88.6l5,4.9V109v2v15.5l-5,4.9 M13,121.8c-0.9,0-1.6-0.7-1.6-1.6c0-0.9,0.7-1.6,1.6-1.6&#13;
+			c0.9,0,1.6,0.7,1.6,1.6C14.6,121,13.9,121.8,13,121.8z M13,101.4c-0.9,0-1.6-0.7-1.6-1.6c0-0.9,0.7-1.6,1.6-1.6&#13;
+			c0.9,0,1.6,0.7,1.6,1.6C14.6,100.7,13.9,101.4,13,101.4z M13,111.6c-0.9,0-1.6-0.7-1.6-1.6c0-0.9,0.7-1.6,1.6-1.6&#13;
+			c0.9,0,1.6,0.7,1.6,1.6C14.6,110.9,13.9,111.6,13,111.6z&quot;/&gt;&#13;
+	&lt;/g&gt;&#13;
+&lt;/g&gt;&#13;
+&lt;/svg&gt;&#13;
+&lt;/g&gt;
+&lt;/g&gt;
+&lt;g transform=&quot;translate(20.48,222.13)&quot;&gt;
+&lt;g transform=&quot;scale(1.7454545454545454)&quot;&gt;
+&lt;svg version=&quot;1.1&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot; x=&quot;0px&quot; y=&quot;0px&quot; width=&quot;203px&quot;&#13;
+	 height=&quot;220px&quot; viewBox=&quot;0 0 203 220&quot; enable-background=&quot;new 0 0 203 220&quot; xml:space=&quot;preserve&quot;&gt;&#13;
+&lt;g&gt;&#13;
+	&lt;g&gt;&#13;
+		&lt;polyline fill=&quot;#E6E6E6&quot; fill-opacity=&quot;0.5&quot; stroke=&quot;#808080&quot; stroke-miterlimit=&quot;10&quot; points=&quot;203,131.5 202,131.5 127.7,141.5 &#13;
+			14.5,141.5 14.5,146.5 128.1,146.5 202.3,136.5 203,136.5 		&quot;/&gt;&#13;
+	&lt;/g&gt;&#13;
+	&lt;g&gt;&#13;
+		&lt;polyline fill=&quot;#E6E6E6&quot; fill-opacity=&quot;0.5&quot; stroke=&quot;#808080&quot; stroke-miterlimit=&quot;10&quot; points=&quot;203,88.5 202,88.5 127.7,78.5 &#13;
+			14.5,78.5 14.5,73.5 128.1,73.5 202.3,83.5 203,83.5 		&quot;/&gt;&#13;
+	&lt;/g&gt;&#13;
+	&#13;
+		&lt;path fill=&quot;#E6E6E6&quot; stroke=&quot;#808080&quot; stroke-miterlimit=&quot;10&quot; d=&quot;&#13;
+		M0.5,109v70.5h6v-7l13.5-22h11.5v-4h-26V109V73.5h26v-4H20l-13.5-22v-7h-6V109z&quot;/&gt;&#13;
+	&lt;rect x=&quot;14.5&quot; y=&quot;78.5&quot; fill=&quot;#E6E6E6&quot; stroke=&quot;#808080&quot; stroke-miterlimit=&quot;10&quot; width=&quot;11&quot; height=&quot;63&quot;/&gt;&#13;
+&lt;/g&gt;&#13;
+&lt;/svg&gt;&#13;
+&lt;/g&gt;
+&lt;/g&gt;
+&lt;g transform=&quot;translate(374.81,222.13)&quot;&gt;
+&lt;g transform=&quot;scale(5.795607272727272,1.7454545454545454)&quot;&gt;
+&lt;svg version=&quot;1.1&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot; x=&quot;0px&quot; y=&quot;0px&quot; width=&quot;100px&quot;&#13;
+	 height=&quot;220px&quot; viewBox=&quot;0 0 100 220&quot; enable-background=&quot;new 0 0 100 220&quot; xml:space=&quot;preserve&quot;&gt;&#13;
+&lt;g&gt;&#13;
+	&lt;g&gt;&#13;
+		&lt;rect y=&quot;83&quot; fill=&quot;#E6E6E6&quot; fill-opacity=&quot;0.5&quot; width=&quot;100&quot; height=&quot;6&quot;/&gt;&#13;
+		&lt;line fill=&quot;none&quot; stroke=&quot;#808080&quot; stroke-miterlimit=&quot;10&quot; x1=&quot;0&quot; y1=&quot;83.5&quot; x2=&quot;100&quot; y2=&quot;83.5&quot;/&gt;&#13;
+		&lt;line fill=&quot;none&quot; stroke=&quot;#808080&quot; stroke-miterlimit=&quot;10&quot; x1=&quot;100&quot; y1=&quot;88.5&quot; x2=&quot;0&quot; y2=&quot;88.5&quot;/&gt;&#13;
+	&lt;/g&gt;&#13;
+	&lt;g&gt;&#13;
+		&lt;rect y=&quot;131&quot; fill=&quot;#E6E6E6&quot; fill-opacity=&quot;0.5&quot; width=&quot;100&quot; height=&quot;6&quot;/&gt;&#13;
+		&lt;line fill=&quot;none&quot; stroke=&quot;#808080&quot; stroke-miterlimit=&quot;10&quot; x1=&quot;0&quot; y1=&quot;136.5&quot; x2=&quot;100&quot; y2=&quot;136.5&quot;/&gt;&#13;
+		&lt;line fill=&quot;none&quot; stroke=&quot;#808080&quot; stroke-miterlimit=&quot;10&quot; x1=&quot;100&quot; y1=&quot;131.5&quot; x2=&quot;0&quot; y2=&quot;131.5&quot;/&gt;&#13;
+	&lt;/g&gt;&#13;
+&lt;/g&gt;&#13;
+&lt;/svg&gt;&#13;
+&lt;/g&gt;
+&lt;/g&gt;
+&lt;g transform=&quot;translate(954.37,222.13)&quot;&gt;
+&lt;g transform=&quot;scale(1.7454545454545454)&quot;&gt;
+&lt;svg version=&quot;1.1&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot; x=&quot;0px&quot; y=&quot;0px&quot; width=&quot;30px&quot;&#13;
+	 height=&quot;220px&quot; viewBox=&quot;0 0 30 220&quot; enable-background=&quot;new 0 0 30 220&quot; xml:space=&quot;preserve&quot;&gt;&#13;
+&lt;g&gt;&#13;
+	&lt;g&gt;&#13;
+		&lt;polyline fill=&quot;#E6E6E6&quot; fill-opacity=&quot;0.5&quot; stroke=&quot;#808080&quot; stroke-miterlimit=&quot;10&quot; points=&quot;0,83.5 29.5,83.5 29.5,88.5 0,88.5 &#13;
+					&quot;/&gt;&#13;
+	&lt;/g&gt;&#13;
+	&lt;g&gt;&#13;
+		&lt;polyline fill=&quot;#E6E6E6&quot; fill-opacity=&quot;0.5&quot; stroke=&quot;#808080&quot; stroke-miterlimit=&quot;10&quot; points=&quot;0,136.5 29.5,136.5 29.5,131.5 &#13;
+			0,131.5 		&quot;/&gt;&#13;
+	&lt;/g&gt;&#13;
+	&lt;rect x=&quot;2.5&quot; y=&quot;88.5&quot; fill=&quot;#E6E6E6&quot; stroke=&quot;#808080&quot; stroke-miterlimit=&quot;10&quot; width=&quot;12&quot; height=&quot;43&quot;/&gt;&#13;
+	&lt;g&gt;&#13;
+		&lt;polygon fill=&quot;#E6E6E6&quot; stroke=&quot;#808080&quot; stroke-miterlimit=&quot;10&quot; points=&quot;13.5,28.6 13.5,81.5 4.4,81.5 4.4,83.5 16.5,83.5 &#13;
+			16.5,28.6 		&quot;/&gt;&#13;
+		&lt;rect x=&quot;16.5&quot; y=&quot;33.3&quot; fill=&quot;#E6E6E6&quot; stroke=&quot;#808080&quot; stroke-miterlimit=&quot;10&quot; width=&quot;5&quot; height=&quot;28.8&quot;/&gt;&#13;
+		&lt;rect x=&quot;21.5&quot; y=&quot;33.3&quot; fill=&quot;#E6E6E6&quot; stroke=&quot;#808080&quot; stroke-miterlimit=&quot;10&quot; width=&quot;2&quot; height=&quot;28.8&quot;/&gt;&#13;
+	&lt;/g&gt;&#13;
+	&lt;g&gt;&#13;
+		&lt;polygon fill=&quot;#E6E6E6&quot; stroke=&quot;#808080&quot; stroke-miterlimit=&quot;10&quot; points=&quot;13.5,191.4 13.5,138.5 4.4,138.5 4.4,136.5 16.5,136.5 &#13;
+			16.5,191.4 		&quot;/&gt;&#13;
+		&lt;rect x=&quot;16.5&quot; y=&quot;157.9&quot; fill=&quot;#E6E6E6&quot; stroke=&quot;#808080&quot; stroke-miterlimit=&quot;10&quot; width=&quot;5&quot; height=&quot;28.8&quot;/&gt;&#13;
+		&lt;rect x=&quot;21.5&quot; y=&quot;157.9&quot; fill=&quot;#E6E6E6&quot; stroke=&quot;#808080&quot; stroke-miterlimit=&quot;10&quot; width=&quot;2&quot; height=&quot;28.8&quot;/&gt;&#13;
+	&lt;/g&gt;&#13;
+&lt;/g&gt;&#13;
+&lt;/svg&gt;&#13;
+&lt;/g&gt;
+&lt;/g&gt;
+&lt;/g&gt;
+&lt;g class=&quot;ddg-axles&quot; &gt;
+&lt;g class=&quot;ddg-axle&quot; id=&quot;ddg-axle1&quot; &gt;
+&lt;g transform=&quot;translate(78.78,222.13)&quot;&gt;
+&lt;g transform=&quot;scale(1.7454545454545454)&quot;&gt;
+&lt;svg version=&quot;1.1&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot; x=&quot;0px&quot; y=&quot;0px&quot; width=&quot;74px&quot;&#13;
+	 height=&quot;220px&quot; viewBox=&quot;0 0 74 220&quot; enable-background=&quot;new 0 0 74 220&quot; xml:space=&quot;preserve&quot;&gt;&#13;
+&lt;g&gt;&#13;
+	&lt;polygon fill=&quot;#4D4D4D&quot; stroke=&quot;#000000&quot; stroke-width=&quot;2&quot; stroke-miterlimit=&quot;10&quot; points=&quot;32,110 32,183 42,183 42,110 42,109 &#13;
+		42,37 32,37 32,109 	&quot;/&gt;&#13;
+&lt;/g&gt;&#13;
+&lt;/svg&gt;&#13;
+&lt;svg version=&quot;1.1&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot; x=&quot;0px&quot; y=&quot;0px&quot; width=&quot;74px&quot;&#13;
+	 height=&quot;220px&quot; viewBox=&quot;0 0 74 220&quot; enable-background=&quot;new 0 0 74 220&quot; xml:space=&quot;preserve&quot;&gt;&#13;
+&lt;g&gt;&#13;
+	&lt;g&gt;&#13;
+		&lt;rect x=&quot;3&quot; y=&quot;79&quot; fill=&quot;#B3B3B3&quot; stroke=&quot;#000000&quot; stroke-width=&quot;2&quot; stroke-miterlimit=&quot;10&quot; width=&quot;68&quot; height=&quot;4&quot;/&gt;&#13;
+	&lt;/g&gt;&#13;
+	&lt;g&gt;&#13;
+		&lt;rect x=&quot;3&quot; y=&quot;137&quot; fill=&quot;#B3B3B3&quot; stroke=&quot;#000000&quot; stroke-width=&quot;2&quot; stroke-miterlimit=&quot;10&quot; width=&quot;68&quot; height=&quot;4&quot;/&gt;&#13;
+	&lt;/g&gt;&#13;
+&lt;/g&gt;&#13;
+&lt;/svg&gt;&#13;
+&lt;svg version=&quot;1.1&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot; x=&quot;0px&quot; y=&quot;0px&quot; width=&quot;74px&quot;&#13;
+	 height=&quot;220px&quot; viewBox=&quot;0 0 74 220&quot; enable-background=&quot;new 0 0 74 220&quot; xml:space=&quot;preserve&quot;&gt;&#13;
+&lt;g&gt;&#13;
+	&lt;polygon fill=&quot;#E6E6E6&quot; stroke=&quot;#000000&quot; stroke-width=&quot;2&quot; stroke-linejoin=&quot;round&quot; stroke-miterlimit=&quot;10&quot; points=&quot;68.8,30.2 &#13;
+		15.2,61.2 12.1,61.8 3.1,46.2 5.2,43.8 58.8,12.8 61.9,12.2 70.9,27.8 	&quot;/&gt;&#13;
+	&lt;polygon fill=&quot;#E6E6E6&quot; stroke=&quot;#000000&quot; stroke-width=&quot;2&quot; stroke-linejoin=&quot;round&quot; stroke-miterlimit=&quot;10&quot; points=&quot;68.8,176.2 &#13;
+		15.2,207.2 12.1,207.8 3.1,192.2 5.2,189.8 58.8,158.8 61.9,158.2 70.9,173.8 	&quot;/&gt;&#13;
+&lt;/g&gt;&#13;
+&lt;/svg&gt;&#13;
+&lt;/g&gt;
+&lt;/g&gt;
+&lt;g transform=&quot;rotate(-30, 148.596364, 286.716364)&quot; &gt;
+&lt;text x=&quot;148.60&quot; y=&quot;286.72&quot; dy=&quot;.25em&quot; style=&quot;text-anchor: middle; font-size: 29.672727px;&quot; &gt;70%&lt;/text&gt;
+&lt;/g&gt;
+&lt;g transform=&quot;rotate(-30, 148.596364, 541.552727)&quot; &gt;
+&lt;text x=&quot;148.60&quot; y=&quot;541.55&quot; dy=&quot;.25em&quot; style=&quot;text-anchor: middle; font-size: 29.672727px;&quot; &gt;70%&lt;/text&gt;
+&lt;/g&gt;
+&lt;/g&gt;
+&lt;g class=&quot;ddg-axle&quot; id=&quot;ddg-axle2&quot; &gt;
+&lt;g transform=&quot;translate(816.06,222.13)&quot;&gt;
+&lt;g transform=&quot;scale(1.7454545454545454)&quot;&gt;
+&lt;svg version=&quot;1.1&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot; x=&quot;0px&quot; y=&quot;0px&quot; width=&quot;74px&quot;&#13;
+	 height=&quot;220px&quot; viewBox=&quot;0 0 74 220&quot; enable-background=&quot;new 0 0 74 220&quot; xml:space=&quot;preserve&quot;&gt;&#13;
+&lt;g&gt;&#13;
+	&lt;path fill=&quot;#4D4D4D&quot; stroke=&quot;#000000&quot; stroke-width=&quot;2&quot; stroke-miterlimit=&quot;10&quot; d=&quot;M43.6,94.3c-1-0.4-1.6-1.4-1.6-2.5V37H32v53.2&#13;
+		c0,0.6-0.5,1.1-1.1,1.1h-1.8c-0.6,0-1.1,0.5-1.1,1.1v3.4c0,0.6-0.5,1.1-1.1,1.1h-9.2c-0.9,0-1.7,1.1-1.7,2v13.4c0,1,0.5,2,1.4,2.5&#13;
+		l10,6.3c0.3,0.2,0.5,0.6,0.5,0.9v4.7c0,0.6,0.5,1.1,1.1,1.1h1.8c0.6,0,1.1,0.4,1.1,1.1V183h10v-55c0-1.1,0.6-2.1,1.6-2.5&#13;
+		c5.7-2.6,9.5-8.4,9.5-15.4C53.1,103.1,49.3,96.8,43.6,94.3z&quot;/&gt;&#13;
+	&lt;line fill=&quot;none&quot; stroke=&quot;#000000&quot; stroke-miterlimit=&quot;10&quot; x1=&quot;37.3&quot; y1=&quot;37.5&quot; x2=&quot;37.3&quot; y2=&quot;183.5&quot;/&gt;&#13;
+	&lt;line fill=&quot;none&quot; stroke=&quot;#000000&quot; stroke-miterlimit=&quot;10&quot; x1=&quot;27.5&quot; y1=&quot;99.5&quot; x2=&quot;27.5&quot; y2=&quot;118.4&quot;/&gt;&#13;
+&lt;/g&gt;&#13;
+&lt;/svg&gt;&#13;
+&lt;svg version=&quot;1.1&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot; x=&quot;0px&quot; y=&quot;0px&quot; width=&quot;74px&quot;&#13;
+	 height=&quot;220px&quot; viewBox=&quot;0 0 74 220&quot; enable-background=&quot;new 0 0 74 220&quot; xml:space=&quot;preserve&quot;&gt;&#13;
+&lt;g&gt;&#13;
+	&lt;rect x=&quot;11&quot; y=&quot;137&quot; fill=&quot;#4D4D4D&quot; stroke=&quot;#000000&quot; stroke-width=&quot;2&quot; stroke-miterlimit=&quot;10&quot; width=&quot;52&quot; height=&quot;4&quot;/&gt;&#13;
+	&lt;circle fill=&quot;#B3B3B3&quot; stroke=&quot;#000000&quot; stroke-width=&quot;2&quot; stroke-miterlimit=&quot;10&quot; cx=&quot;11&quot; cy=&quot;139&quot; r=&quot;8&quot;/&gt;&#13;
+	&lt;circle fill=&quot;#B3B3B3&quot; stroke=&quot;#000000&quot; stroke-width=&quot;2&quot; stroke-miterlimit=&quot;10&quot; cx=&quot;63&quot; cy=&quot;139&quot; r=&quot;8&quot;/&gt;&#13;
+	&lt;rect x=&quot;11&quot; y=&quot;79&quot; fill=&quot;#4D4D4D&quot; stroke=&quot;#000000&quot; stroke-width=&quot;2&quot; stroke-miterlimit=&quot;10&quot; width=&quot;52&quot; height=&quot;4&quot;/&gt;&#13;
+	&lt;circle fill=&quot;#B3B3B3&quot; stroke=&quot;#000000&quot; stroke-width=&quot;2&quot; stroke-miterlimit=&quot;10&quot; cx=&quot;11&quot; cy=&quot;81&quot; r=&quot;8&quot;/&gt;&#13;
+	&lt;circle fill=&quot;#B3B3B3&quot; stroke=&quot;#000000&quot; stroke-width=&quot;2&quot; stroke-miterlimit=&quot;10&quot; cx=&quot;63&quot; cy=&quot;81&quot; r=&quot;8&quot;/&gt;&#13;
+&lt;/g&gt;&#13;
+&lt;/svg&gt;&#13;
+&lt;svg version=&quot;1.1&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot; x=&quot;0px&quot; y=&quot;0px&quot; width=&quot;74px&quot;&#13;
+	 height=&quot;220px&quot; viewBox=&quot;0 0 74 220&quot; enable-background=&quot;new 0 0 74 220&quot; xml:space=&quot;preserve&quot;&gt;&#13;
+&lt;g&gt;&#13;
+	&lt;rect x=&quot;20.8&quot; y=&quot;160&quot; fill=&quot;#4D4D4D&quot; stroke=&quot;#000000&quot; stroke-width=&quot;2&quot; stroke-miterlimit=&quot;10&quot; width=&quot;32.5&quot; height=&quot;17.7&quot;/&gt;&#13;
+	&lt;rect x=&quot;20.8&quot; y=&quot;42.3&quot; fill=&quot;#4D4D4D&quot; stroke=&quot;#000000&quot; stroke-width=&quot;2&quot; stroke-miterlimit=&quot;10&quot; width=&quot;32.5&quot; height=&quot;17.7&quot;/&gt;&#13;
+	&lt;polygon fill=&quot;#E6E6E6&quot; stroke=&quot;#000000&quot; stroke-width=&quot;2&quot; stroke-linejoin=&quot;round&quot; stroke-miterlimit=&quot;10&quot; points=&quot;68,47 6,47 &#13;
+		3,46 3,28 6,27 68,27 71,28 71,46 	&quot;/&gt;&#13;
+	&lt;polygon fill=&quot;#E6E6E6&quot; stroke=&quot;#000000&quot; stroke-width=&quot;2&quot; stroke-linejoin=&quot;round&quot; stroke-miterlimit=&quot;10&quot; points=&quot;68,70 6,70 &#13;
+		3,69 3,51 6,50 68,50 71,51 71,69 	&quot;/&gt;&#13;
+	&lt;polygon fill=&quot;#E6E6E6&quot; stroke=&quot;#000000&quot; stroke-width=&quot;2&quot; stroke-linejoin=&quot;round&quot; stroke-miterlimit=&quot;10&quot; points=&quot;68,170 6,170 &#13;
+		3,169 3,151 6,150 68,150 71,151 71,169 	&quot;/&gt;&#13;
+	&lt;polygon fill=&quot;#E6E6E6&quot; stroke=&quot;#000000&quot; stroke-width=&quot;2&quot; stroke-linejoin=&quot;round&quot; stroke-miterlimit=&quot;10&quot; points=&quot;68,193 6,193 &#13;
+		3,192 3,174 6,173 68,173 71,174 71,192 	&quot;/&gt;&#13;
+&lt;/g&gt;&#13;
+&lt;/svg&gt;&#13;
+&lt;/g&gt;
+&lt;/g&gt;
+&lt;text x=&quot;885.88&quot; y=&quot;290.21&quot; dy=&quot;.25em&quot; style=&quot;text-anchor: middle; font-size: 29.672727px;&quot; &gt;70%&lt;/text&gt;
+&lt;text x=&quot;885.88&quot; y=&quot;545.04&quot; dy=&quot;.25em&quot; style=&quot;text-anchor: middle; font-size: 29.672727px;&quot; &gt;70%&lt;/text&gt;
+&lt;text x=&quot;885.88&quot; y=&quot;330.35&quot; dy=&quot;.25em&quot; style=&quot;text-anchor: middle; font-size: 29.672727px;&quot; &gt;70%&lt;/text&gt;
+&lt;text x=&quot;885.88&quot; y=&quot;503.15&quot; dy=&quot;.25em&quot; style=&quot;text-anchor: middle; font-size: 29.672727px;&quot; &gt;70%&lt;/text&gt;
+&lt;/g&gt;
+&lt;/g&gt;
+&lt;/g&gt;
+&lt;/svg&gt;
+</asconfiguratie_svg>
+	<nieuwprijs/>
+	<netto_catalogusprijs/>
+	<fiscale_waarde/>
+	<bijtelling_pct/>
+	<verkocht_datum/>
+	<eigen_garantielabel></eigen_garantielabel>
+	<verlengd></verlengd>
+	<verhoogd></verhoogd>
+	<assen_aangedreven>1</assen_aangedreven>
+	<bedrijfsuren/>
+	<geremd>j</geremd>
+	<datum_binnenkomst>10-03-2026</datum_binnenkomst>
+	<verhuur/>
+	<klassieker/>
+	<aantal_eigenaren/>
+	<onderhoudshistorie/>
+	<onderhouden_volgens_voorschriften/>
+	<afleverpakketten/>
+	<afleverpakket_toegepast/>
+	<aantal_slaapplaatsen/>
+	<aantal_bedden/>
+	<merk_chassis/>
+	<model_chassis/>
+	<meldcode/>
+	<land>nl</land>
+	<topsnelheid/>
+	<tankinhoud/>
+	<actieradius/>
+	<actieradius_elektrisch/>
+	<actieradius_brandstof/>
+	<nedc_actieradius_elektrisch_gemiddeld/>
+	<nedc_actieradius_elektrisch_snelweg/>
+	<nedc_actieradius_elektrisch_stad/>
+	<wltp_actieradius_elektrisch_combined/>
+	<wltp_actieradius_elektrisch_combined_eaer/>
+	<wltp_actieradius_elektrisch_low/>
+	<wltp_actieradius_elektrisch_medium/>
+	<wltp_actieradius_elektrisch_high/>
+	<wltp_actieradius_elektrisch_extrahigh/>
+	<max_trekgewicht_ongeremd>750</max_trekgewicht_ongeremd>
+	<acceleratie/>
+	<max_dakbelasting/>
+	<inhoud_laadruimte_banken_weggeklapt/>
+	<verbruik_stad/>
+	<verbruik_snelweg/>
+	<nedc_brandstofverbruik_stad/>
+	<nedc_brandstofverbruik_snelweg/>
+	<wltp_brandstofverbruik_low/>
+	<wltp_brandstofverbruik_low_lege_accu/>
+	<wltp_brandstofverbruik_medium/>
+	<wltp_brandstofverbruik_medium_lege_accu/>
+	<wltp_brandstofverbruik_high/>
+	<wltp_brandstofverbruik_high_lege_accu/>
+	<wltp_brandstofverbruik_extrahigh/>
+	<wltp_brandstofverbruik_extrahigh_lege_accu/>
+	<elektriciteitsverbruik_gemiddeld/>
+	<elektriciteitsverbruik_snelweg/>
+	<elektriciteitsverbruik_stad/>
+	<nedc_elektriciteitsverbruik_gemiddeld/>
+	<nedc_elektriciteitsverbruik_snelweg/>
+	<nedc_elektriciteitsverbruik_stad/>
+	<wltp_elektriciteitsverbruik_combined/>
+	<wltp_elektriciteitsverbruik_combined_weighted/>
+	<wltp_elektriciteitsverbruik_low/>
+	<wltp_elektriciteitsverbruik_medium/>
+	<wltp_elektriciteitsverbruik_high/>
+	<wltp_elektriciteitsverbruik_extrahigh/>
+	<co2_uitstoot>0</co2_uitstoot>
+	<nedc_co2_uitstoot_gemiddeld/>
+	<nedc_co2_uitstoot_snelweg/>
+	<nedc_co2_uitstoot_stad/>
+	<wltp_co2_uitstoot_combined/>
+	<wltp_co2_uitstoot_combined_weighted/>
+	<wltp_co2_uitstoot_combined_lege_accu/>
+	<wltp_co2_uitstoot_low/>
+	<wltp_co2_uitstoot_medium/>
+	<wltp_co2_uitstoot_high/>
+	<wltp_co2_uitstoot_extrahigh/>
+	<fijnstof_uitstoot/>
+	<adblue_systeem/>
+	<cabine_soort>dag</cabine_soort>
+	<cabine_type/>
+	<cabine_lengte/>
+	<transmissie_merk/>
+	<transmissie_type/>
+	<opbouw>
+		<merk/>
+		<type/>
+		<lengte>644</lengte>
+		<breedte>225</breedte>
+		<hoogte>245</hoogte>
+		<kipper_rechts/>
+		<kipper_links/>
+		<kipper_achter/>
+		<aantal_compartimenten/>
+		<pomp/>
+		<uitschuifbaar/>
+		<slangen/>
+		<telwerk/>
+		<waterinstallatie/>
+		<schoonwatertank/>
+		<schoonwatertank_inhoud/>
+		<hogedrukpomp/>
+		<laadvloer_hoogte/>
+		<inhoud_laadruimte/>
+		<schuifdak/>
+		<soort_koelmotor/>
+		<draaiuren_elektrisch/>
+		<draaiuren_diesel/>
+		<wanddikte/>
+		<aantal_autos/>
+	</opbouw>
+	<laadklep>
+		<merk>Dhollandia</merk>
+		<type>DHLM50</type>
+		<soort>achtersluitklep</soort>
+		<capaciteit>1500</capaciteit>
+	</laadklep>
+	<alternatieve_onderdelen/>
+	<fabrieksgarantie_tot/>
+	<fabrieksgarantie_aantal_kms/>
+	<fabrieksgarantie_aantal_maanden/>
+	<garantielabels/>
+	<honderd_procent_onderhouden>n</honderd_procent_onderhouden>
+	<bovag_40puntencheck>n</bovag_40puntencheck>
+	<bovag_afleverbeurt>n</bovag_afleverbeurt>
+	<bovag_onderhoudsvrij>n</bovag_onderhoudsvrij>
+	<bovag_import_tellercheck>n</bovag_import_tellercheck>
+	<garantie_maanden/>
+	<garantie_km/>
+	<opmerkingen_garantie_nederlands></opmerkingen_garantie_nederlands>
+	<opmerkingen_garantie_engels></opmerkingen_garantie_engels>
+	<opmerkingen_garantie_duits></opmerkingen_garantie_duits>
+	<opmerkingen_garantie_frans></opmerkingen_garantie_frans>
+	<opmerkingen_garantie_spaans></opmerkingen_garantie_spaans>
+	<opmerkingen_garantie_portugees></opmerkingen_garantie_portugees>
+	<opmerkingen_garantie_italiaans></opmerkingen_garantie_italiaans>
+	<opmerkingen_garantie_grieks></opmerkingen_garantie_grieks>
+	<opmerkingen_garantie_russisch></opmerkingen_garantie_russisch>
+	<opmerkingen_garantie_roemeens></opmerkingen_garantie_roemeens>
+	<opmerkingen_garantie_hongaars></opmerkingen_garantie_hongaars>
+	<opmerkingen_garantie_pools></opmerkingen_garantie_pools>
+	<opmerkingen_garantie_tsjechisch></opmerkingen_garantie_tsjechisch>
+	<opmerkingen_garantie_bulgaars></opmerkingen_garantie_bulgaars>
+	<opmerkingen_garantie_kroatisch></opmerkingen_garantie_kroatisch>
+	<opmerkingen_garantie_deens></opmerkingen_garantie_deens>
+	<opmerkingen_garantie_slowaaks></opmerkingen_garantie_slowaaks>
+	<opmerkingen_garantie_turks></opmerkingen_garantie_turks>
+	<opmerkingen_garantie_fins></opmerkingen_garantie_fins>
+	<opmerkingen_garantie_zweeds></opmerkingen_garantie_zweeds>
+	<opmerkingen_garantie_noors></opmerkingen_garantie_noors>
+	<euro_ncap_rating/>
+	<upc_a/>
+	<ean_8/>
+	<ean_13/>
+	<bed1_type/>
+	<bed1_positie/>
+	<bed1_richting/>
+	<bed2_type/>
+	<bed2_positie/>
+	<bed2_richting/>
+	<bed3_type/>
+	<bed3_positie/>
+	<bed3_richting/>
+	<zit1_type/>
+	<zit1_positie/>
+	<zit2_type/>
+	<zit2_positie/>
+	<keuken_positie/>
+	<sanitair_opstelling/>
+	<directe_link>https://nijwausedtrucks.nl/directlink/51942414</directe_link>
+	<contactpersonen/>
+	<opmerkingen>Kogelkoppeling&lt;br /&gt;Achteruitrijcamera&lt;br /&gt;Cruise control&lt;br /&gt;Airconditioning&lt;br /&gt;ZIjdeur&lt;br /&gt;Gereedschapskist 3x&lt;br /&gt;&lt;br /&gt;Dhollandia DHLM50 laadklep 1500KG &lt;br /&gt;Plateau 160cm&lt;br /&gt;&lt;br /&gt;Inwendige bakmaten:&lt;br /&gt;L504 x B235 x H105&lt;br /&gt;L644 x B235 x H245</opmerkingen>
+	<opmerkingen_engels>Ball coupling&lt;br /&gt;Reversing camera&lt;br /&gt;Cruise control&lt;br /&gt;Air conditioning&lt;br /&gt;Side door&lt;br /&gt;Toolbox 3x&lt;br /&gt;&lt;br /&gt;Dhollandia DHLM50 tail lift 1500KG&lt;br /&gt;Platform 160cm&lt;br /&gt;&lt;br /&gt;Internal container dimensions:&lt;br /&gt;L504 x W235 x H105&lt;br /&gt;L644 x W235 x H245</opmerkingen_engels>
+	<opmerkingen_duits>Kugelkupplung&lt;br /&gt;R&amp;uuml;ckfahrkamera&lt;br /&gt;Tempomat&lt;br /&gt;Klimaanlage&lt;br /&gt;Seitent&amp;uuml;r&lt;br /&gt;Werkzeugkasten 3x&lt;br /&gt;&lt;br /&gt;Dhollandia DHLM50 Ladeklappe 1500 kg &lt;br /&gt;Ladefl&amp;auml;che 160 cm&lt;br /&gt;&lt;br /&gt;Innenma&amp;szlig;e der Ladefl&amp;auml;che:&lt;br /&gt;L 504 x B 235 x H 105&lt;br /&gt;L644 x B235 x H245</opmerkingen_duits>
+	<opmerkingen_frans></opmerkingen_frans>
+	<opmerkingen_spaans></opmerkingen_spaans>
+	<opmerkingen_portugees></opmerkingen_portugees>
+	<opmerkingen_italiaans></opmerkingen_italiaans>
+	<opmerkingen_grieks></opmerkingen_grieks>
+	<opmerkingen_russisch></opmerkingen_russisch>
+	<opmerkingen_roemeens></opmerkingen_roemeens>
+	<opmerkingen_hongaars></opmerkingen_hongaars>
+	<opmerkingen_pools></opmerkingen_pools>
+	<opmerkingen_tsjechisch></opmerkingen_tsjechisch>
+	<opmerkingen_bulgaars></opmerkingen_bulgaars>
+	<opmerkingen_kroatisch></opmerkingen_kroatisch>
+	<opmerkingen_deens></opmerkingen_deens>
+	<opmerkingen_slowaaks></opmerkingen_slowaaks>
+	<opmerkingen_turks></opmerkingen_turks>
+	<opmerkingen_fins></opmerkingen_fins>
+	<opmerkingen_zweeds></opmerkingen_zweeds>
+	<opmerkingen_noors></opmerkingen_noors>
+	<opmerkingen_handel></opmerkingen_handel>
+	<opmerkingen_handel_engels></opmerkingen_handel_engels>
+	<opmerkingen_handel_duits></opmerkingen_handel_duits>
+	<opmerkingen_handel_frans></opmerkingen_handel_frans>
+	<opmerkingen_handel_spaans></opmerkingen_handel_spaans>
+	<opmerkingen_handel_portugees></opmerkingen_handel_portugees>
+	<opmerkingen_handel_italiaans></opmerkingen_handel_italiaans>
+	<opmerkingen_handel_grieks></opmerkingen_handel_grieks>
+	<opmerkingen_handel_russisch></opmerkingen_handel_russisch>
+	<opmerkingen_handel_roemeens></opmerkingen_handel_roemeens>
+	<opmerkingen_handel_hongaars></opmerkingen_handel_hongaars>
+	<opmerkingen_handel_pools></opmerkingen_handel_pools>
+	<opmerkingen_handel_tsjechisch></opmerkingen_handel_tsjechisch>
+	<opmerkingen_handel_bulgaars></opmerkingen_handel_bulgaars>
+	<opmerkingen_handel_kroatisch></opmerkingen_handel_kroatisch>
+	<opmerkingen_handel_deens></opmerkingen_handel_deens>
+	<opmerkingen_handel_slowaaks></opmerkingen_handel_slowaaks>
+	<opmerkingen_handel_turks></opmerkingen_handel_turks>
+	<opmerkingen_handel_fins></opmerkingen_handel_fins>
+	<opmerkingen_handel_zweeds></opmerkingen_handel_zweeds>
+	<opmerkingen_handel_noors></opmerkingen_handel_noors>
+	<titel></titel>
+	<titel_engels></titel_engels>
+	<titel_duits></titel_duits>
+	<titel_frans></titel_frans>
+	<titel_spaans></titel_spaans>
+	<titel_portugees></titel_portugees>
+	<titel_italiaans></titel_italiaans>
+	<titel_grieks></titel_grieks>
+	<titel_russisch></titel_russisch>
+	<titel_roemeens></titel_roemeens>
+	<titel_hongaars></titel_hongaars>
+	<titel_pools></titel_pools>
+	<titel_tsjechisch></titel_tsjechisch>
+	<titel_bulgaars></titel_bulgaars>
+	<titel_kroatisch></titel_kroatisch>
+	<titel_deens></titel_deens>
+	<titel_slowaaks></titel_slowaaks>
+	<titel_turks></titel_turks>
+	<titel_fins></titel_fins>
+	<titel_zweeds></titel_zweeds>
+	<titel_noors></titel_noors>
+	<highlights></highlights>
+	<highlights_engels></highlights_engels>
+	<highlights_duits></highlights_duits>
+	<highlights_frans></highlights_frans>
+	<highlights_spaans></highlights_spaans>
+	<highlights_portugees></highlights_portugees>
+	<highlights_italiaans></highlights_italiaans>
+	<highlights_grieks></highlights_grieks>
+	<highlights_russisch></highlights_russisch>
+	<highlights_roemeens></highlights_roemeens>
+	<highlights_hongaars></highlights_hongaars>
+	<highlights_pools></highlights_pools>
+	<highlights_tsjechisch></highlights_tsjechisch>
+	<highlights_bulgaars></highlights_bulgaars>
+	<highlights_kroatisch></highlights_kroatisch>
+	<highlights_deens></highlights_deens>
+	<highlights_slowaaks></highlights_slowaaks>
+	<highlights_turks></highlights_turks>
+	<highlights_fins></highlights_fins>
+	<highlights_zweeds></highlights_zweeds>
+	<highlights_noors></highlights_noors>
+	<zoektermen></zoektermen>
+	<zoektermen_engels></zoektermen_engels>
+	<zoektermen_duits></zoektermen_duits>
+	<zoektermen_frans></zoektermen_frans>
+	<zoektermen_spaans></zoektermen_spaans>
+	<zoektermen_portugees></zoektermen_portugees>
+	<zoektermen_italiaans></zoektermen_italiaans>
+	<zoektermen_grieks></zoektermen_grieks>
+	<zoektermen_russisch></zoektermen_russisch>
+	<zoektermen_roemeens></zoektermen_roemeens>
+	<zoektermen_hongaars></zoektermen_hongaars>
+	<zoektermen_pools></zoektermen_pools>
+	<zoektermen_tsjechisch></zoektermen_tsjechisch>
+	<zoektermen_bulgaars></zoektermen_bulgaars>
+	<zoektermen_kroatisch></zoektermen_kroatisch>
+	<zoektermen_deens></zoektermen_deens>
+	<zoektermen_slowaaks></zoektermen_slowaaks>
+	<zoektermen_turks></zoektermen_turks>
+	<zoektermen_fins></zoektermen_fins>
+	<zoektermen_zweeds></zoektermen_zweeds>
+	<zoektermen_noors></zoektermen_noors>
+	<standaardopmerkingen></standaardopmerkingen>
+	<standaardopmerkingen_engels></standaardopmerkingen_engels>
+	<standaardopmerkingen_duits></standaardopmerkingen_duits>
+	<standaardopmerkingen_frans></standaardopmerkingen_frans>
+	<standaardopmerkingen_spaans></standaardopmerkingen_spaans>
+	<standaardopmerkingen_portugees></standaardopmerkingen_portugees>
+	<standaardopmerkingen_italiaans></standaardopmerkingen_italiaans>
+	<standaardopmerkingen_grieks></standaardopmerkingen_grieks>
+	<standaardopmerkingen_russisch></standaardopmerkingen_russisch>
+	<standaardopmerkingen_roemeens></standaardopmerkingen_roemeens>
+	<standaardopmerkingen_hongaars></standaardopmerkingen_hongaars>
+	<standaardopmerkingen_pools></standaardopmerkingen_pools>
+	<standaardopmerkingen_tsjechisch></standaardopmerkingen_tsjechisch>
+	<standaardopmerkingen_bulgaars></standaardopmerkingen_bulgaars>
+	<standaardopmerkingen_kroatisch></standaardopmerkingen_kroatisch>
+	<standaardopmerkingen_deens></standaardopmerkingen_deens>
+	<standaardopmerkingen_slowaaks></standaardopmerkingen_slowaaks>
+	<standaardopmerkingen_turks></standaardopmerkingen_turks>
+	<standaardopmerkingen_fins></standaardopmerkingen_fins>
+	<standaardopmerkingen_zweeds></standaardopmerkingen_zweeds>
+	<standaardopmerkingen_noors></standaardopmerkingen_noors>
+	<motorrijtuigen_belasting>
+		<maand_min>
+			<prijs nr="1">
+				<bedrag>0</bedrag>
+				<munteenheid>EUR</munteenheid>
+				<btw/>
+				<btw_percentage/>
+				<bpm/>
+			</prijs>
+		</maand_min>
+		<maand_max>
+			<prijs nr="1">
+				<bedrag>0</bedrag>
+				<munteenheid>EUR</munteenheid>
+				<btw/>
+				<btw_percentage/>
+				<bpm/>
+			</prijs>
+		</maand_max>
+		<kwartaal_min>
+			<prijs nr="1">
+				<bedrag>0</bedrag>
+				<munteenheid>EUR</munteenheid>
+				<btw/>
+				<btw_percentage/>
+				<bpm/>
+			</prijs>
+		</kwartaal_min>
+		<kwartaal_max>
+			<prijs nr="1">
+				<bedrag>0</bedrag>
+				<munteenheid>EUR</munteenheid>
+				<btw/>
+				<btw_percentage/>
+				<bpm/>
+			</prijs>
+		</kwartaal_max>
+		<jaar_min>
+			<prijs nr="1">
+				<bedrag>0</bedrag>
+				<munteenheid>EUR</munteenheid>
+				<btw/>
+				<btw_percentage/>
+				<bpm/>
+			</prijs>
+		</jaar_min>
+		<jaar_max>
+			<prijs nr="1">
+				<bedrag>0</bedrag>
+				<munteenheid>EUR</munteenheid>
+				<btw/>
+				<btw_percentage/>
+				<bpm/>
+			</prijs>
+		</jaar_max>
+	</motorrijtuigen_belasting>
+	<bmw_service_inclusive>
+		<service_type/>
+		<contract_type/>
+		<omschrijving_nl></omschrijving_nl>
+		<startdatum/>
+		<einddatum/>
+		<max_kms/>
+	</bmw_service_inclusive>
+	<verkocht>n</verkocht>
+	<verwacht>n</verwacht>
+	<gereserveerd/>
+	<accessoires>
+		<accessoire>
+			<naam>Achteruitrijcamera</naam>
+			<prioriteit>2</prioriteit>
+			<volgorde>1</volgorde>
+			<prijs/>
+		</accessoire>
+		<accessoire>
+			<naam>Airconditioning</naam>
+			<prioriteit>2</prioriteit>
+			<volgorde>2</volgorde>
+			<prijs/>
+		</accessoire>
+		<accessoire>
+			<naam>Anti Blokkeer Systeem</naam>
+			<prioriteit>2</prioriteit>
+			<volgorde>3</volgorde>
+			<prijs/>
+		</accessoire>
+		<accessoire>
+			<naam>Centrale deurvergrendeling afstandbediening</naam>
+			<prioriteit>2</prioriteit>
+			<volgorde>4</volgorde>
+			<prijs/>
+		</accessoire>
+		<accessoire>
+			<naam>Cruise control</naam>
+			<prioriteit>2</prioriteit>
+			<volgorde>5</volgorde>
+			<prijs/>
+		</accessoire>
+		<accessoire>
+			<naam>Dakspoiler</naam>
+			<prioriteit>2</prioriteit>
+			<volgorde>6</volgorde>
+			<prijs/>
+		</accessoire>
+		<accessoire>
+			<naam>Elektrisch bedienbare ramen</naam>
+			<prioriteit>2</prioriteit>
+			<volgorde>7</volgorde>
+			<prijs/>
+		</accessoire>
+		<accessoire>
+			<naam>Gereedschapskist</naam>
+			<prioriteit>2</prioriteit>
+			<volgorde>8</volgorde>
+			<prijs/>
+		</accessoire>
+		<accessoire>
+			<naam>Laadklep 1500 kg</naam>
+			<prioriteit>2</prioriteit>
+			<volgorde>9</volgorde>
+			<prijs/>
+		</accessoire>
+		<accessoire>
+			<naam>Radio</naam>
+			<prioriteit>2</prioriteit>
+			<volgorde>10</volgorde>
+			<prijs/>
+		</accessoire>
+		<accessoire>
+			<naam>Reservewiel</naam>
+			<prioriteit>2</prioriteit>
+			<volgorde>11</volgorde>
+			<prijs/>
+		</accessoire>
+		<accessoire>
+			<naam>Snelheidsbegrenzer</naam>
+			<prioriteit>2</prioriteit>
+			<volgorde>12</volgorde>
+			<prijs/>
+		</accessoire>
+		<accessoire>
+			<naam>Spoilers</naam>
+			<prioriteit>2</prioriteit>
+			<volgorde>13</volgorde>
+			<prijs/>
+		</accessoire>
+		<accessoire>
+			<naam>Zijdeur</naam>
+			<prioriteit>2</prioriteit>
+			<volgorde>14</volgorde>
+			<prijs/>
+		</accessoire>
+		<accessoire>
+			<naam>Zonneklep</naam>
+			<prioriteit>2</prioriteit>
+			<volgorde>15</volgorde>
+			<prijs/>
+		</accessoire>
+	</accessoires>
+	<accessoires_engels>
+		<accessoire>
+			<naam>Anti-lock braking system</naam>
+			<prioriteit>2</prioriteit>
+			<volgorde>3</volgorde>
+			<prijs/>
+		</accessoire>
+		<accessoire>
+			<naam>Cruise control</naam>
+			<prioriteit>2</prioriteit>
+			<volgorde>5</volgorde>
+			<prijs/>
+		</accessoire>
+		<accessoire>
+			<naam>Electrically operated windows</naam>
+			<prioriteit>2</prioriteit>
+			<volgorde>7</volgorde>
+			<prijs/>
+		</accessoire>
+		<accessoire>
+			<naam>Radio</naam>
+			<prioriteit>2</prioriteit>
+			<volgorde>10</volgorde>
+			<prijs/>
+		</accessoire>
+		<accessoire>
+			<naam>Reversing camera</naam>
+			<prioriteit>2</prioriteit>
+			<volgorde>1</volgorde>
+			<prijs/>
+		</accessoire>
+		<accessoire>
+			<naam>Roof spoiler</naam>
+			<prioriteit>2</prioriteit>
+			<volgorde>6</volgorde>
+			<prijs/>
+		</accessoire>
+		<accessoire>
+			<naam>Side door</naam>
+			<prioriteit>2</prioriteit>
+			<volgorde>14</volgorde>
+			<prijs/>
+		</accessoire>
+		<accessoire>
+			<naam>Spare wheel</naam>
+			<prioriteit>2</prioriteit>
+			<volgorde>11</volgorde>
+			<prijs/>
+		</accessoire>
+		<accessoire>
+			<naam>Speed limiter</naam>
+			<prioriteit>2</prioriteit>
+			<volgorde>12</volgorde>
+			<prijs/>
+		</accessoire>
+		<accessoire>
+			<naam>Spoilers</naam>
+			<prioriteit>2</prioriteit>
+			<volgorde>13</volgorde>
+			<prijs/>
+		</accessoire>
+		<accessoire>
+			<naam>Taillift 1500 kg</naam>
+			<prioriteit>2</prioriteit>
+			<volgorde>9</volgorde>
+			<prijs/>
+		</accessoire>
+		<accessoire>
+			<naam>Toolbox</naam>
+			<prioriteit>2</prioriteit>
+			<volgorde>8</volgorde>
+			<prijs/>
+		</accessoire>
+		<accessoire>
+			<naam>Visor</naam>
+			<prioriteit>2</prioriteit>
+			<volgorde>15</volgorde>
+			<prijs/>
+		</accessoire>
+	</accessoires_engels>
+	<accessoires_duits>
+		<accessoire>
+			<naam>Antiblockiersystem</naam>
+			<prioriteit>2</prioriteit>
+			<volgorde>3</volgorde>
+			<prijs/>
+		</accessoire>
+		<accessoire>
+			<naam>Dachspoiler</naam>
+			<prioriteit>2</prioriteit>
+			<volgorde>6</volgorde>
+			<prijs/>
+		</accessoire>
+		<accessoire>
+			<naam>Elektrische Fensterheber</naam>
+			<prioriteit>2</prioriteit>
+			<volgorde>7</volgorde>
+			<prijs/>
+		</accessoire>
+		<accessoire>
+			<naam>Geschwindigkeitsbegrenzer</naam>
+			<prioriteit>2</prioriteit>
+			<volgorde>12</volgorde>
+			<prijs/>
+		</accessoire>
+		<accessoire>
+			<naam>Geschwindigkeitsregelanlage</naam>
+			<prioriteit>2</prioriteit>
+			<volgorde>5</volgorde>
+			<prijs/>
+		</accessoire>
+		<accessoire>
+			<naam>Ladebordwand 1500 kg</naam>
+			<prioriteit>2</prioriteit>
+			<volgorde>9</volgorde>
+			<prijs/>
+		</accessoire>
+		<accessoire>
+			<naam>Radio</naam>
+			<prioriteit>2</prioriteit>
+			<volgorde>10</volgorde>
+			<prijs/>
+		</accessoire>
+		<accessoire>
+			<naam>Reserverad</naam>
+			<prioriteit>2</prioriteit>
+			<volgorde>11</volgorde>
+			<prijs/>
+		</accessoire>
+		<accessoire>
+			<naam>Rückwärtsfahrkamera</naam>
+			<prioriteit>2</prioriteit>
+			<volgorde>1</volgorde>
+			<prijs/>
+		</accessoire>
+		<accessoire>
+			<naam>Seitentür</naam>
+			<prioriteit>2</prioriteit>
+			<volgorde>14</volgorde>
+			<prijs/>
+		</accessoire>
+		<accessoire>
+			<naam>Sonnenschutzklappe</naam>
+			<prioriteit>2</prioriteit>
+			<volgorde>15</volgorde>
+			<prijs/>
+		</accessoire>
+		<accessoire>
+			<naam>Spoiler</naam>
+			<prioriteit>2</prioriteit>
+			<volgorde>13</volgorde>
+			<prijs/>
+		</accessoire>
+		<accessoire>
+			<naam>Werkzeugkasten</naam>
+			<prioriteit>2</prioriteit>
+			<volgorde>8</volgorde>
+			<prijs/>
+		</accessoire>
+	</accessoires_duits>
+	<accessoires_frans>
+		<accessoire>
+			<naam>Caisse à outils</naam>
+			<prioriteit>2</prioriteit>
+			<volgorde>8</volgorde>
+			<prijs/>
+		</accessoire>
+		<accessoire>
+			<naam>Caméra de recul</naam>
+			<prioriteit>2</prioriteit>
+			<volgorde>1</volgorde>
+			<prijs/>
+		</accessoire>
+		<accessoire>
+			<naam>Fenêtres électriques</naam>
+			<prioriteit>2</prioriteit>
+			<volgorde>7</volgorde>
+			<prijs/>
+		</accessoire>
+		<accessoire>
+			<naam>Limiteur de vitesse</naam>
+			<prioriteit>2</prioriteit>
+			<volgorde>12</volgorde>
+			<prijs/>
+		</accessoire>
+		<accessoire>
+			<naam>Pare-soleil</naam>
+			<prioriteit>2</prioriteit>
+			<volgorde>15</volgorde>
+			<prijs/>
+		</accessoire>
+		<accessoire>
+			<naam>Roue de secours</naam>
+			<prioriteit>2</prioriteit>
+			<volgorde>11</volgorde>
+			<prijs/>
+		</accessoire>
+		<accessoire>
+			<naam>Régulateur de vitesse</naam>
+			<prioriteit>2</prioriteit>
+			<volgorde>5</volgorde>
+			<prijs/>
+		</accessoire>
+		<accessoire>
+			<naam>Spoilers</naam>
+			<prioriteit>2</prioriteit>
+			<volgorde>13</volgorde>
+			<prijs/>
+		</accessoire>
+		<accessoire>
+			<naam>Système anti-blocage</naam>
+			<prioriteit>2</prioriteit>
+			<volgorde>3</volgorde>
+			<prijs/>
+		</accessoire>
+	</accessoires_frans>
+	<accessoires_spaans/>
+	<accessoires_portugees/>
+	<accessoires_italiaans/>
+	<accessoires_grieks/>
+	<accessoires_russisch/>
+	<accessoires_roemeens/>
+	<accessoires_hongaars/>
+	<accessoires_pools/>
+	<accessoires_tsjechisch/>
+	<accessoires_bulgaars/>
+	<accessoires_kroatisch/>
+	<accessoires_deens/>
+	<accessoires_slowaaks/>
+	<accessoires_turks/>
+	<accessoires_fins/>
+	<accessoires_zweeds/>
+	<accessoires_noors/>
+	<accessoiregroepen>
+		<accessoiregroep naam="Exterieur">
+			<accessoire>
+				<prioriteit>2</prioriteit>
+				<prijs/>
+				<description>Dakspoiler</description>
+			</accessoire>
+			<accessoire>
+				<prioriteit>2</prioriteit>
+				<prijs/>
+				<description>Spoilers</description>
+			</accessoire>
+			<accessoire>
+				<prioriteit>2</prioriteit>
+				<prijs/>
+				<description>Zijdeur</description>
+			</accessoire>
+			<accessoire>
+				<prioriteit>2</prioriteit>
+				<prijs/>
+				<description>Zonneklep</description>
+			</accessoire>
+		</accessoiregroep>
+		<accessoiregroep naam="Infotainment">
+			<accessoire>
+				<prioriteit>2</prioriteit>
+				<prijs/>
+				<description>Airconditioning</description>
+			</accessoire>
+		</accessoiregroep>
+		<accessoiregroep naam="Interieur">
+			<accessoire>
+				<prioriteit>2</prioriteit>
+				<prijs/>
+				<description>Cruise control</description>
+			</accessoire>
+			<accessoire>
+				<prioriteit>2</prioriteit>
+				<prijs/>
+				<description>Elektrisch bedienbare ramen</description>
+			</accessoire>
+			<accessoire>
+				<prioriteit>2</prioriteit>
+				<prijs/>
+				<description>Radio</description>
+			</accessoire>
+		</accessoiregroep>
+		<accessoiregroep naam="Veiligheid">
+			<accessoire>
+				<prioriteit>2</prioriteit>
+				<prijs/>
+				<description>Achteruitrijcamera</description>
+			</accessoire>
+			<accessoire>
+				<prioriteit>2</prioriteit>
+				<prijs/>
+				<description>Anti Blokkeer Systeem</description>
+			</accessoire>
+			<accessoire>
+				<prioriteit>2</prioriteit>
+				<prijs/>
+				<description>Snelheidsbegrenzer</description>
+			</accessoire>
+		</accessoiregroep>
+		<accessoiregroep naam="Overige">
+			<accessoire>
+				<prioriteit>2</prioriteit>
+				<prijs/>
+				<description>Centrale deurvergrendeling afstandbediening</description>
+			</accessoire>
+			<accessoire>
+				<prioriteit>2</prioriteit>
+				<prijs/>
+				<description>Gereedschapskist</description>
+			</accessoire>
+			<accessoire>
+				<prioriteit>2</prioriteit>
+				<prijs/>
+				<description>Laadklep 1500 kg</description>
+			</accessoire>
+			<accessoire>
+				<prioriteit>2</prioriteit>
+				<prijs/>
+				<description>Reservewiel</description>
+			</accessoire>
+		</accessoiregroep>
+	</accessoiregroepen>
+	<accessoiregroepen_engels>
+		<accessoiregroep naam="Other">
+			<accessoire>
+				<prioriteit>2</prioriteit>
+				<prijs/>
+				<description>Anti-lock braking system</description>
+			</accessoire>
+			<accessoire>
+				<prioriteit>2</prioriteit>
+				<prijs/>
+				<description>Cruise control</description>
+			</accessoire>
+			<accessoire>
+				<prioriteit>2</prioriteit>
+				<prijs/>
+				<description>Electrically operated windows</description>
+			</accessoire>
+			<accessoire>
+				<prioriteit>2</prioriteit>
+				<prijs/>
+				<description>Radio</description>
+			</accessoire>
+			<accessoire>
+				<prioriteit>2</prioriteit>
+				<prijs/>
+				<description>Reversing camera</description>
+			</accessoire>
+			<accessoire>
+				<prioriteit>2</prioriteit>
+				<prijs/>
+				<description>Roof spoiler</description>
+			</accessoire>
+			<accessoire>
+				<prioriteit>2</prioriteit>
+				<prijs/>
+				<description>Side door</description>
+			</accessoire>
+			<accessoire>
+				<prioriteit>2</prioriteit>
+				<prijs/>
+				<description>Spare wheel</description>
+			</accessoire>
+			<accessoire>
+				<prioriteit>2</prioriteit>
+				<prijs/>
+				<description>Speed limiter</description>
+			</accessoire>
+			<accessoire>
+				<prioriteit>2</prioriteit>
+				<prijs/>
+				<description>Spoilers</description>
+			</accessoire>
+			<accessoire>
+				<prioriteit>2</prioriteit>
+				<prijs/>
+				<description>Taillift 1500 kg</description>
+			</accessoire>
+			<accessoire>
+				<prioriteit>2</prioriteit>
+				<prijs/>
+				<description>Toolbox</description>
+			</accessoire>
+			<accessoire>
+				<prioriteit>2</prioriteit>
+				<prijs/>
+				<description>Visor</description>
+			</accessoire>
+		</accessoiregroep>
+	</accessoiregroepen_engels>
+	<accessoiregroepen_duits>
+		<accessoiregroep naam="Sonstige">
+			<accessoire>
+				<prioriteit>2</prioriteit>
+				<prijs/>
+				<description>Antiblockiersystem</description>
+			</accessoire>
+			<accessoire>
+				<prioriteit>2</prioriteit>
+				<prijs/>
+				<description>Dachspoiler</description>
+			</accessoire>
+			<accessoire>
+				<prioriteit>2</prioriteit>
+				<prijs/>
+				<description>Elektrische Fensterheber</description>
+			</accessoire>
+			<accessoire>
+				<prioriteit>2</prioriteit>
+				<prijs/>
+				<description>Geschwindigkeitsbegrenzer</description>
+			</accessoire>
+			<accessoire>
+				<prioriteit>2</prioriteit>
+				<prijs/>
+				<description>Geschwindigkeitsregelanlage</description>
+			</accessoire>
+			<accessoire>
+				<prioriteit>2</prioriteit>
+				<prijs/>
+				<description>Ladebordwand 1500 kg</description>
+			</accessoire>
+			<accessoire>
+				<prioriteit>2</prioriteit>
+				<prijs/>
+				<description>Radio</description>
+			</accessoire>
+			<accessoire>
+				<prioriteit>2</prioriteit>
+				<prijs/>
+				<description>Reserverad</description>
+			</accessoire>
+			<accessoire>
+				<prioriteit>2</prioriteit>
+				<prijs/>
+				<description>Rückwärtsfahrkamera</description>
+			</accessoire>
+			<accessoire>
+				<prioriteit>2</prioriteit>
+				<prijs/>
+				<description>Seitentür</description>
+			</accessoire>
+			<accessoire>
+				<prioriteit>2</prioriteit>
+				<prijs/>
+				<description>Sonnenschutzklappe</description>
+			</accessoire>
+			<accessoire>
+				<prioriteit>2</prioriteit>
+				<prijs/>
+				<description>Spoiler</description>
+			</accessoire>
+			<accessoire>
+				<prioriteit>2</prioriteit>
+				<prijs/>
+				<description>Werkzeugkasten</description>
+			</accessoire>
+		</accessoiregroep>
+	</accessoiregroepen_duits>
+	<accessoiregroepen_frans>
+		<accessoiregroep naam="Autres">
+			<accessoire>
+				<prioriteit>2</prioriteit>
+				<prijs/>
+				<description>Caisse à outils</description>
+			</accessoire>
+			<accessoire>
+				<prioriteit>2</prioriteit>
+				<prijs/>
+				<description>Caméra de recul</description>
+			</accessoire>
+			<accessoire>
+				<prioriteit>2</prioriteit>
+				<prijs/>
+				<description>Fenêtres électriques</description>
+			</accessoire>
+			<accessoire>
+				<prioriteit>2</prioriteit>
+				<prijs/>
+				<description>Limiteur de vitesse</description>
+			</accessoire>
+			<accessoire>
+				<prioriteit>2</prioriteit>
+				<prijs/>
+				<description>Pare-soleil</description>
+			</accessoire>
+			<accessoire>
+				<prioriteit>2</prioriteit>
+				<prijs/>
+				<description>Roue de secours</description>
+			</accessoire>
+			<accessoire>
+				<prioriteit>2</prioriteit>
+				<prijs/>
+				<description>Régulateur de vitesse</description>
+			</accessoire>
+			<accessoire>
+				<prioriteit>2</prioriteit>
+				<prijs/>
+				<description>Spoilers</description>
+			</accessoire>
+			<accessoire>
+				<prioriteit>2</prioriteit>
+				<prijs/>
+				<description>Système anti-blocage</description>
+			</accessoire>
+		</accessoiregroep>
+	</accessoiregroepen_frans>
+	<accessoiregroepen_spaans/>
+	<accessoiregroepen_portugees/>
+	<accessoiregroepen_italiaans/>
+	<accessoiregroepen_grieks/>
+	<accessoiregroepen_russisch/>
+	<accessoiregroepen_roemeens/>
+	<accessoiregroepen_hongaars/>
+	<accessoiregroepen_pools/>
+	<accessoiregroepen_tsjechisch/>
+	<accessoiregroepen_bulgaars/>
+	<accessoiregroepen_kroatisch/>
+	<accessoiregroepen_deens/>
+	<accessoiregroepen_slowaaks/>
+	<accessoiregroepen_turks/>
+	<accessoiregroepen_fins/>
+	<accessoiregroepen_zweeds/>
+	<accessoiregroepen_noors/>
+	<zoekaccessoires>
+		<accessoire>Achteruitrijcamera</accessoire>
+		<accessoire>Airconditioning</accessoire>
+		<accessoire>Antiblokkeersysteem</accessoire>
+		<accessoire>Centrale deurvergrendeling afstandbediend</accessoire>
+		<accessoire>Cruise control</accessoire>
+		<accessoire>Dakspoiler</accessoire>
+		<accessoire>Elektrisch bedienbare ramen</accessoire>
+		<accessoire>Gereedschapskist</accessoire>
+		<accessoire>Radio</accessoire>
+		<accessoire>Reservewiel</accessoire>
+		<accessoire>Snelheidsbegrenzer</accessoire>
+		<accessoire>Zijdeur</accessoire>
+		<accessoire>Zonneklep</accessoire>
+	</zoekaccessoires>
+	<zoekaccessoires_engels>
+		<accessoire>Air conditioning</accessoire>
+		<accessoire>Anti-lock braking system</accessoire>
+		<accessoire>Cruise control</accessoire>
+		<accessoire>Electrically operated windows</accessoire>
+		<accessoire>Radio</accessoire>
+		<accessoire>Remote central locking</accessoire>
+		<accessoire>Reversing camera</accessoire>
+		<accessoire>Roof spoiler</accessoire>
+		<accessoire>Side door</accessoire>
+		<accessoire>Spare wheel</accessoire>
+		<accessoire>Speed limiter</accessoire>
+		<accessoire>Toolbox</accessoire>
+		<accessoire>Visor</accessoire>
+	</zoekaccessoires_engels>
+	<zoekaccessoires_duits>
+		<accessoire>Antiblockiersystem</accessoire>
+		<accessoire>Dachspoiler</accessoire>
+		<accessoire>Elektrische Fensterheber</accessoire>
+		<accessoire>Fernbediente Zentralverriegelung</accessoire>
+		<accessoire>Geschwindigkeitsbegrenzer</accessoire>
+		<accessoire>Geschwindigkeitsregelanlage</accessoire>
+		<accessoire>Klimaanlage</accessoire>
+		<accessoire>Radio</accessoire>
+		<accessoire>Reserverad</accessoire>
+		<accessoire>Rückwärtsfahrkamera</accessoire>
+		<accessoire>Seitentür</accessoire>
+		<accessoire>Sonnenschutzklappe</accessoire>
+		<accessoire>Werkzeugkasten</accessoire>
+	</zoekaccessoires_duits>
+	<zoekaccessoires_frans>
+		<accessoire>Air conditionné</accessoire>
+		<accessoire>Béquet de toit</accessoire>
+		<accessoire>Caisse à outils</accessoire>
+		<accessoire>Caméra de recul</accessoire>
+		<accessoire>Fenêtres électriques</accessoire>
+		<accessoire>Limiteur de vitesse</accessoire>
+		<accessoire>Pare-soleil</accessoire>
+		<accessoire>Porte latérale</accessoire>
+		<accessoire>Radio</accessoire>
+		<accessoire>Roue de secours</accessoire>
+		<accessoire>Régulateur de vitesse</accessoire>
+		<accessoire>Système antiblocage</accessoire>
+		<accessoire>Verrouillage centralisé à distance</accessoire>
+	</zoekaccessoires_frans>
+	<zoekaccessoires_spaans>
+		<accessoire>Aire acondicionado</accessoire>
+		<accessoire>Bloqueo centralizado a distancia</accessoire>
+		<accessoire>Caja de herramientas</accessoire>
+		<accessoire>Control de crucero</accessoire>
+		<accessoire>Cámara de marcha atrás</accessoire>
+		<accessoire>Limitador de velocidad</accessoire>
+		<accessoire>Puerta lateral</accessoire>
+		<accessoire>Radio</accessoire>
+		<accessoire>Rueda de recambio</accessoire>
+		<accessoire>Sistema antibloqueo</accessoire>
+		<accessoire>Spoiler de techo</accessoire>
+		<accessoire>Ventanillas eléctricas</accessoire>
+		<accessoire>Visera parasol</accessoire>
+	</zoekaccessoires_spaans>
+	<zoekaccessoires_portugees>
+		<accessoire>Ar condicionado</accessoire>
+		<accessoire>Caixa de ferramentas</accessoire>
+		<accessoire>Camara de marcha-atràs</accessoire>
+		<accessoire>Controlo da velocidade de cruzeiro</accessoire>
+		<accessoire>Fecho centralizado remoto</accessoire>
+		<accessoire>Limitador de velocidade</accessoire>
+		<accessoire>Porta laterais</accessoire>
+		<accessoire>Roda suplente</accessoire>
+		<accessoire>Rádio</accessoire>
+		<accessoire>Sistema de travagem antibloqueio</accessoire>
+		<accessoire>Spoiler de tejadilho</accessoire>
+		<accessoire>Vidros eléctricos</accessoire>
+		<accessoire>Visor</accessoire>
+	</zoekaccessoires_portugees>
+	<zoekaccessoires_italiaans>
+		<accessoire>Alzacristalli elettrico</accessoire>
+		<accessoire>Aria condizionata</accessoire>
+		<accessoire>Autoradio</accessoire>
+		<accessoire>Bloccaggio centralizzato con telecomando</accessoire>
+		<accessoire>Cassetta degli attrezzi</accessoire>
+		<accessoire>Limitatore di velocità</accessoire>
+		<accessoire>Parasole</accessoire>
+		<accessoire>Portiera laterale</accessoire>
+		<accessoire>Ruota di scorta</accessoire>
+		<accessoire>Sistema di frenata antibloccaggio</accessoire>
+		<accessoire>Spoiler per il tetto</accessoire>
+		<accessoire>Tempomat</accessoire>
+		<accessoire>Videocamera per retromarcia</accessoire>
+	</zoekaccessoires_italiaans>
+	<zoekaccessoires_grieks>
+		<accessoire>Αεροτομή οροφής</accessoire>
+		<accessoire>Γείσο</accessoire>
+		<accessoire>Εργαλειοθήκη</accessoire>
+		<accessoire>Κάμερα οπισθοπορείας</accessoire>
+		<accessoire>Κεντρικό κλείδωμα με τηλεχειρισμό</accessoire>
+		<accessoire>Περιοριστής ταχύτητας</accessoire>
+		<accessoire>Πλαϊνή πόρτα</accessoire>
+		<accessoire>Ραδιόφωνο</accessoire>
+		<accessoire>Ρεζέρβα</accessoire>
+		<accessoire>Σύστημα αντιμπλοκαρίσματος τροχών</accessoire>
+		<accessoire>αυτόματος πιλότος</accessoire>
+		<accessoire>ηλεκτρικά παράθυρα</accessoire>
+		<accessoire>σύστημα κλιματισμού</accessoire>
+	</zoekaccessoires_grieks>
+	<zoekaccessoires_russisch>
+		<accessoire>Антиблокировочная тормозная система</accessoire>
+		<accessoire>Боковая дверь</accessoire>
+		<accessoire>Запасное колесо</accessoire>
+		<accessoire>Камера заднего хода</accessoire>
+		<accessoire>Круиз-контроль</accessoire>
+		<accessoire>Ограничитель скорости</accessoire>
+		<accessoire>Пульт дистанционного управления центральным замком</accessoire>
+		<accessoire>Радиоприемник</accessoire>
+		<accessoire>Система кондиционирования воздуха</accessoire>
+		<accessoire>Солнцезащитный козырек</accessoire>
+		<accessoire>Спойлер на крыше</accessoire>
+		<accessoire>Стеклоподъемники с электрическим приводом</accessoire>
+		<accessoire>Ящик для инструментов</accessoire>
+	</zoekaccessoires_russisch>
+	<zoekaccessoires_roemeens>
+		<accessoire>Cameră de marșarier</accessoire>
+		<accessoire>Control viteză de croazieră</accessoire>
+		<accessoire>Geamuri acționate electric</accessoire>
+		<accessoire>Instalaţie de climatizare</accessoire>
+		<accessoire>Limitator de viteză</accessoire>
+		<accessoire>Parasolar</accessoire>
+		<accessoire>Radio</accessoire>
+		<accessoire>Roată de rezervă</accessoire>
+		<accessoire>Sistem antiblocare</accessoire>
+		<accessoire>Spoiler pavilion</accessoire>
+		<accessoire>Trusă de scule</accessoire>
+		<accessoire>Ușă laterală</accessoire>
+		<accessoire>Închidere centralizată de la distanță</accessoire>
+	</zoekaccessoires_roemeens>
+	<zoekaccessoires_hongaars>
+		<accessoire>Automatikus sebességtartás</accessoire>
+		<accessoire>Blokkolásgátló fékrendszer</accessoire>
+		<accessoire>Elektromos vezérlésű ablakok</accessoire>
+		<accessoire>Légkondicionálás</accessoire>
+		<accessoire>Napellenző</accessoire>
+		<accessoire>Oldalajtó</accessoire>
+		<accessoire>Pótkerék</accessoire>
+		<accessoire>Rádió</accessoire>
+		<accessoire>Sebességhatároló</accessoire>
+		<accessoire>Szerszámdoboz</accessoire>
+		<accessoire>Tetőlégterelő</accessoire>
+		<accessoire>Tolatókamera</accessoire>
+		<accessoire>Távirányításos központi zár</accessoire>
+	</zoekaccessoires_hongaars>
+	<zoekaccessoires_pools>
+		<accessoire>ABS</accessoire>
+		<accessoire>Drzwi boczne</accessoire>
+		<accessoire>Elektrycznie opuszczane szyby</accessoire>
+		<accessoire>Kamera do tyłu</accessoire>
+		<accessoire>Klimatyzacja</accessoire>
+		<accessoire>Koło zapasowe</accessoire>
+		<accessoire>Ogranicznik prędkości</accessoire>
+		<accessoire>Osłony przeciwsłoneczne</accessoire>
+		<accessoire>Pilot do zamka centralnego</accessoire>
+		<accessoire>Radio</accessoire>
+		<accessoire>Skrzynka narzędziowa</accessoire>
+		<accessoire>Spoiler dachowy</accessoire>
+		<accessoire>Tempomat</accessoire>
+	</zoekaccessoires_pools>
+	<zoekaccessoires_tsjechisch>
+		<accessoire>Boční dveře</accessoire>
+		<accessoire>Centrální zamykání s dálkovým ovládáním</accessoire>
+		<accessoire>Clona</accessoire>
+		<accessoire>Elektricky ovládaná okna</accessoire>
+		<accessoire>Kamera couvání</accessoire>
+		<accessoire>Klimatizační zařízení</accessoire>
+		<accessoire>Náhradní kolo</accessoire>
+		<accessoire>Omezovač rychlosti</accessoire>
+		<accessoire>Panel nástrojů</accessoire>
+		<accessoire>Protiblokovací brzdový systém</accessoire>
+		<accessoire>Radiopřijímač</accessoire>
+		<accessoire>Střešní spoiler</accessoire>
+		<accessoire>Tempomat</accessoire>
+	</zoekaccessoires_tsjechisch>
+	<zoekaccessoires_bulgaars>
+		<accessoire>Антиблокираща система</accessoire>
+		<accessoire>Дистанционно централно заключване</accessoire>
+		<accessoire>Камера за заден ход</accessoire>
+		<accessoire>Климатик</accessoire>
+		<accessoire>Круиз контрол</accessoire>
+		<accessoire>Кутия с инструменти</accessoire>
+		<accessoire>Маска</accessoire>
+		<accessoire>Ограничител на скоростта</accessoire>
+		<accessoire>Прозорци с електронно управление</accessoire>
+		<accessoire>Радио</accessoire>
+		<accessoire>Резервно колело</accessoire>
+		<accessoire>Спойлер на покрива</accessoire>
+		<accessoire>Странична врата</accessoire>
+	</zoekaccessoires_bulgaars>
+	<zoekaccessoires_kroatisch>
+		<accessoire>Bočna vrata</accessoire>
+		<accessoire>Daljinsko središnje zaključavanje</accessoire>
+		<accessoire>Kamera za vožnju unatrag</accessoire>
+		<accessoire>Klima-uređaj</accessoire>
+		<accessoire>Kontrola putovanja</accessoire>
+		<accessoire>Krovni spojler</accessoire>
+		<accessoire>Kutija za alat</accessoire>
+		<accessoire>Ograničivač brzine</accessoire>
+		<accessoire>Prozori na električno upravljanje</accessoire>
+		<accessoire>Radio</accessoire>
+		<accessoire>Rezervni kotač</accessoire>
+		<accessoire>Sjenilo</accessoire>
+		<accessoire>Sustav protiv blokiranja kotača</accessoire>
+	</zoekaccessoires_kroatisch>
+	<zoekaccessoires_deens>
+		<accessoire>Aircondition</accessoire>
+		<accessoire>Antiblokeringssystem til bremsning</accessoire>
+		<accessoire>Bakkamera</accessoire>
+		<accessoire>Elruder</accessoire>
+		<accessoire>Fartpilot</accessoire>
+		<accessoire>Fjernlåsning</accessoire>
+		<accessoire>Hastighedsbegrænser</accessoire>
+		<accessoire>Radio</accessoire>
+		<accessoire>Reservehjul</accessoire>
+		<accessoire>Sidedør</accessoire>
+		<accessoire>Solskærm</accessoire>
+		<accessoire>Tagspoiler</accessoire>
+		<accessoire>Værktøjskasse</accessoire>
+	</zoekaccessoires_deens>
+	<zoekaccessoires_slowaaks>
+		<accessoire>Bočné dvere</accessoire>
+		<accessoire>Clona</accessoire>
+		<accessoire>Cúvacia kamera</accessoire>
+		<accessoire>Diaľkové centrálne zamykanie</accessoire>
+		<accessoire>Elektrické ovládanie okien</accessoire>
+		<accessoire>Klimatizácia</accessoire>
+		<accessoire>Obmedzovač rýchlosti</accessoire>
+		<accessoire>Rezervné koleso</accessoire>
+		<accessoire>Rádio</accessoire>
+		<accessoire>Skrinka na náradie</accessoire>
+		<accessoire>Strešný spojler</accessoire>
+		<accessoire>Systém ABS</accessoire>
+		<accessoire>Tempomat</accessoire>
+	</zoekaccessoires_slowaaks>
+	<zoekaccessoires_turks>
+		<accessoire>Alet kutusu</accessoire>
+		<accessoire>Elektrikle çalışan camlar</accessoire>
+		<accessoire>Geri vites kamerası</accessoire>
+		<accessoire>Güneşlik</accessoire>
+		<accessoire>Hız sabitleyici</accessoire>
+		<accessoire>Hız sınırlayıcı</accessoire>
+		<accessoire>Kilitlenme Önleyici Fren Sistemi</accessoire>
+		<accessoire>Klima</accessoire>
+		<accessoire>Radyo</accessoire>
+		<accessoire>Stepne</accessoire>
+		<accessoire>Tavan spoyleri</accessoire>
+		<accessoire>Uzaktan merkezi kilitleme</accessoire>
+		<accessoire>Yan kapı</accessoire>
+	</zoekaccessoires_turks>
+	<zoekaccessoires_fins>
+		<accessoire>Etäkeskuslukitus</accessoire>
+		<accessoire>Ilmastointi</accessoire>
+		<accessoire>Kattospoileri</accessoire>
+		<accessoire>Lukkiutumaton jarrujärjestelmä</accessoire>
+		<accessoire>Nopeudenrajoitin</accessoire>
+		<accessoire>Peruutuskamera</accessoire>
+		<accessoire>Radio</accessoire>
+		<accessoire>Sivuovi</accessoire>
+		<accessoire>Sähkötoimiset ikkunat</accessoire>
+		<accessoire>Työkalulaatikko</accessoire>
+		<accessoire>Vakionopeudensäädin</accessoire>
+		<accessoire>Varapyörä</accessoire>
+		<accessoire>Visiiri</accessoire>
+	</zoekaccessoires_fins>
+	<zoekaccessoires_zweeds>
+		<accessoire>Backkamera</accessoire>
+		<accessoire>Centralt fjärrlås</accessoire>
+		<accessoire>Elmanövrerade fönster</accessoire>
+		<accessoire>Farthållare</accessoire>
+		<accessoire>Hastighetsbegränsare</accessoire>
+		<accessoire>Luftkonditionering</accessoire>
+		<accessoire>Låsningsfritt bromssystem</accessoire>
+		<accessoire>Radio</accessoire>
+		<accessoire>Reservhjul</accessoire>
+		<accessoire>Sidodörr</accessoire>
+		<accessoire>Solskydd</accessoire>
+		<accessoire>Takspoiler</accessoire>
+		<accessoire>Verktygslåda</accessoire>
+	</zoekaccessoires_zweeds>
+	<zoekaccessoires_noors>
+		<accessoire>Blokkeringsfrie bremser</accessoire>
+		<accessoire>Cruisekontroll</accessoire>
+		<accessoire>Elektrisk betjente vinduer</accessoire>
+		<accessoire>Fjernstyrt sentrallås</accessoire>
+		<accessoire>Hastighetsbegrenser</accessoire>
+		<accessoire>Klimaanlegg</accessoire>
+		<accessoire>Radio</accessoire>
+		<accessoire>Reservehjul</accessoire>
+		<accessoire>Ryggekamera</accessoire>
+		<accessoire>Sidedør</accessoire>
+		<accessoire>Solskjerm</accessoire>
+		<accessoire>Takspoiler</accessoire>
+		<accessoire>Verktøykasse</accessoire>
+	</zoekaccessoires_noors>
+	<schade>
+		<status/>
+		<opmerkingen_nederlands></opmerkingen_nederlands>
+		<opmerkingen_engels></opmerkingen_engels>
+		<opmerkingen_duits></opmerkingen_duits>
+		<opmerkingen_frans></opmerkingen_frans>
+		<opmerkingen_spaans></opmerkingen_spaans>
+		<opmerkingen_portugees></opmerkingen_portugees>
+		<opmerkingen_italiaans></opmerkingen_italiaans>
+		<opmerkingen_grieks></opmerkingen_grieks>
+		<opmerkingen_russisch></opmerkingen_russisch>
+		<opmerkingen_roemeens></opmerkingen_roemeens>
+		<opmerkingen_hongaars></opmerkingen_hongaars>
+		<opmerkingen_pools></opmerkingen_pools>
+		<opmerkingen_tsjechisch></opmerkingen_tsjechisch>
+		<opmerkingen_bulgaars></opmerkingen_bulgaars>
+		<opmerkingen_kroatisch></opmerkingen_kroatisch>
+		<opmerkingen_deens></opmerkingen_deens>
+		<opmerkingen_slowaaks></opmerkingen_slowaaks>
+		<opmerkingen_turks></opmerkingen_turks>
+		<opmerkingen_fins></opmerkingen_fins>
+		<opmerkingen_zweeds></opmerkingen_zweeds>
+		<opmerkingen_noors></opmerkingen_noors>
+		<beschadigingen_nederlands/>
+		<beschadigingen_engels/>
+		<beschadigingen_duits/>
+		<beschadigingen_frans/>
+		<beschadigingen_spaans/>
+		<beschadigingen_portugees/>
+		<beschadigingen_italiaans/>
+		<beschadigingen_grieks/>
+		<beschadigingen_russisch/>
+		<beschadigingen_roemeens/>
+		<beschadigingen_hongaars/>
+		<beschadigingen_pools/>
+		<beschadigingen_tsjechisch/>
+		<beschadigingen_bulgaars/>
+		<beschadigingen_kroatisch/>
+		<beschadigingen_deens/>
+		<beschadigingen_slowaaks/>
+		<beschadigingen_turks/>
+		<beschadigingen_fins/>
+		<beschadigingen_zweeds/>
+		<beschadigingen_noors/>
+		<defecte_onderdelen/>
+		<gerepareerde_schade/>
+		<verrijdbare_schade/>
+	</schade>
+	<vgs>
+		<optiesleutel/>
+		<merktypecode/>
+		<voertuigsoort/>
+		<merk/>
+		<model/>
+		<type/>
+		<uitvoering/>
+		<carrosserievorm/>
+		<brandstof/>
+	</vgs>
+	<autotelex>
+		<uitvoeringsnummer/>
+		<voertuigsoort>V</voertuigsoort>
+		<merk/>
+		<model/>
+		<carvariant/>
+		<uitvoering/>
+		<koetswerk/>
+		<brandstof/>
+	</autotelex>
+	<jato_code/>
+	<afbeeldingen>
+		<afbeelding nr="1">
+			<url>https://do-not-embed.dv.nl/i/TMggciMsj8fW5Uj60PLo-NijFlrEeWXgkxw4wVtfuksrHA==/DAF-LF-55-220-4x2-Kogelkoppeling-plus-Laadklep-1.jpg</url>
+			<bestandsnaam>51942414-1.jpg</bestandsnaam>
+			<omschrijving></omschrijving>
+		</afbeelding>
+		<afbeelding nr="2">
+			<url>https://do-not-embed.dv.nl/i/TMggciMsj8fR5Uj60PLo-NijFlrEeWXgkxw4NgUwCxh2KA==/DAF-LF-55-220-4x2-Kogelkoppeling-plus-Laadklep-2.jpg</url>
+			<bestandsnaam>51942414-2.jpg</bestandsnaam>
+			<omschrijving></omschrijving>
+		</afbeelding>
+		<afbeelding nr="3">
+			<url>https://do-not-embed.dv.nl/i/TMggciMsj8fY5Uj60PLo-NijFlrEeWXgkxw45ccALHMHbw==/DAF-LF-55-220-4x2-Kogelkoppeling-plus-Laadklep-3.jpg</url>
+			<bestandsnaam>51942414-3.jpg</bestandsnaam>
+			<omschrijving></omschrijving>
+		</afbeelding>
+		<afbeelding nr="4">
+			<url>https://do-not-embed.dv.nl/i/TMggciMsj8fQ5Uj60PLo-NijFlrEeWXgkxw4MraR9JULLg==/DAF-LF-55-220-4x2-Kogelkoppeling-plus-Laadklep-4.jpg</url>
+			<bestandsnaam>51942414-4.jpg</bestandsnaam>
+			<omschrijving></omschrijving>
+		</afbeelding>
+		<afbeelding nr="5">
+			<url>https://do-not-embed.dv.nl/i/TMggciMsj8f05Uj60PLo-NijFlrEeWXgkxw4CIhB3ZWZdA==/DAF-LF-55-220-4x2-Kogelkoppeling-plus-Laadklep-5.jpg</url>
+			<bestandsnaam>51942414-5.jpg</bestandsnaam>
+			<omschrijving></omschrijving>
+		</afbeelding>
+		<afbeelding nr="6">
+			<url>https://do-not-embed.dv.nl/i/TMggciMsj8fX5Uj60PLo-NijFlrEeWXgkxw4KE2wtmnZYQ==/DAF-LF-55-220-4x2-Kogelkoppeling-plus-Laadklep-6.jpg</url>
+			<bestandsnaam>51942414-6.jpg</bestandsnaam>
+			<omschrijving></omschrijving>
+		</afbeelding>
+		<afbeelding nr="7">
+			<url>https://do-not-embed.dv.nl/i/TMggciMsj8fo5Uj60PLo-NijFlrEeWXgkxw4WdnTDVRb1w==/DAF-LF-55-220-4x2-Kogelkoppeling-plus-Laadklep-7.jpg</url>
+			<bestandsnaam>51942414-7.jpg</bestandsnaam>
+			<omschrijving></omschrijving>
+		</afbeelding>
+		<afbeelding nr="8">
+			<url>https://do-not-embed.dv.nl/i/TMggciMsj8ek5Uj60PLo-NijFlrEeWXgkxw4TEWBOf3wng==/DAF-LF-55-220-4x2-Kogelkoppeling-plus-Laadklep-8.jpg</url>
+			<bestandsnaam>51942414-8.jpg</bestandsnaam>
+			<omschrijving></omschrijving>
+		</afbeelding>
+		<afbeelding nr="9">
+			<url>https://do-not-embed.dv.nl/i/TMggciMsj8fv5Uj60PLo-NijFlrEeWXgkxw4e27U6YSAMw==/DAF-LF-55-220-4x2-Kogelkoppeling-plus-Laadklep-9.jpg</url>
+			<bestandsnaam>51942414-9.jpg</bestandsnaam>
+			<omschrijving></omschrijving>
+		</afbeelding>
+		<afbeelding nr="10">
+			<url>https://do-not-embed.dv.nl/i/TMggciMsj8f15Uj60PLo-NijFlrEeWXgkxw4P4ER4Y_Ozw==/DAF-LF-55-220-4x2-Kogelkoppeling-plus-Laadklep-10.jpg</url>
+			<bestandsnaam>51942414-10.jpg</bestandsnaam>
+			<omschrijving></omschrijving>
+		</afbeelding>
+		<afbeelding nr="11">
+			<url>https://do-not-embed.dv.nl/i/TMggciMsj8e35Uj60PLo-NijFlrEeWXgkxw4cqORWRviQg==/DAF-LF-55-220-4x2-Kogelkoppeling-plus-Laadklep-11.jpg</url>
+			<bestandsnaam>51942414-11.jpg</bestandsnaam>
+			<omschrijving></omschrijving>
+		</afbeelding>
+		<afbeelding nr="12">
+			<url>https://do-not-embed.dv.nl/i/TMggciMsj8ew5Uj60PLo-NijFlrEeWXgkxw44TYc6Ftkyw==/DAF-LF-55-220-4x2-Kogelkoppeling-plus-Laadklep-12.jpg</url>
+			<bestandsnaam>51942414-12.jpg</bestandsnaam>
+			<omschrijving></omschrijving>
+		</afbeelding>
+		<afbeelding nr="13">
+			<url>https://do-not-embed.dv.nl/i/TMggciMsj8fc5Uj60PLo-NijFlrEeWXgkxw41f3KsPo51Q==/DAF-LF-55-220-4x2-Kogelkoppeling-plus-Laadklep-13.jpg</url>
+			<bestandsnaam>51942414-13.jpg</bestandsnaam>
+			<omschrijving></omschrijving>
+		</afbeelding>
+		<afbeelding nr="14">
+			<url>https://do-not-embed.dv.nl/i/TMggciMsj8e75Uj60PLo-NijFlrEeWXgkxw4ricFIFp0mA==/DAF-LF-55-220-4x2-Kogelkoppeling-plus-Laadklep-14.jpg</url>
+			<bestandsnaam>51942414-14.jpg</bestandsnaam>
+			<omschrijving></omschrijving>
+		</afbeelding>
+		<afbeelding nr="15">
+			<url>https://do-not-embed.dv.nl/i/TMggciMsj8TA5Uj60PLo-NijFlrEeWXgkxw4nK_zFLUxqA==/DAF-LF-55-220-4x2-Kogelkoppeling-plus-Laadklep-15.jpg</url>
+			<bestandsnaam>51942414-15.jpg</bestandsnaam>
+			<omschrijving></omschrijving>
+		</afbeelding>
+		<afbeelding nr="16">
+			<url>https://do-not-embed.dv.nl/i/TMggciMsj8TE5Uj60PLo-NijFlrEeWXgkxw4aEtBR7xauQ==/DAF-LF-55-220-4x2-Kogelkoppeling-plus-Laadklep-16.jpg</url>
+			<bestandsnaam>51942414-16.jpg</bestandsnaam>
+			<omschrijving></omschrijving>
+		</afbeelding>
+		<afbeelding nr="17">
+			<url>https://do-not-embed.dv.nl/i/TMggciMsj8TJxUra0vLo_dijFlq3iD_gkxw4VdlIBCjTcQ==/DAF-LF-55-220-4x2-Kogelkoppeling-plus-Laadklep-17.jpg</url>
+			<bestandsnaam>51942414-17.jpg</bestandsnaam>
+			<omschrijving></omschrijving>
+		</afbeelding>
+		<afbeelding nr="18">
+			<url>https://do-not-embed.dv.nl/i/TMggciMsj8TP5Uj60PLo-NijFlrEeWXgkxw4NwwayQhL4g==/DAF-LF-55-220-4x2-Kogelkoppeling-plus-Laadklep-18.jpg</url>
+			<bestandsnaam>51942414-18.jpg</bestandsnaam>
+			<omschrijving></omschrijving>
+		</afbeelding>
+		<afbeelding nr="19">
+			<url>https://do-not-embed.dv.nl/i/TMggciMsj8TW5Uj60PLo-NijFlrEeWXgkxw4QwCZrhpjfQ==/DAF-LF-55-220-4x2-Kogelkoppeling-plus-Laadklep-19.jpg</url>
+			<bestandsnaam>51942414-19.jpg</bestandsnaam>
+			<omschrijving></omschrijving>
+		</afbeelding>
+		<afbeelding nr="20">
+			<url>https://do-not-embed.dv.nl/i/TMggciMsj8Th5Uj60PLo-NijFlrEeWXgkxw4llqrpGmiTw==/DAF-LF-55-220-4x2-Kogelkoppeling-plus-Laadklep-20.jpg</url>
+			<bestandsnaam>51942414-20.jpg</bestandsnaam>
+			<omschrijving></omschrijving>
+		</afbeelding>
+		<afbeelding nr="21">
+			<url>https://do-not-embed.dv.nl/i/TMggciMsj8Tr5Uj60PLo-NijFlrEeWXgkxw49pMPwRrJvg==/DAF-LF-55-220-4x2-Kogelkoppeling-plus-Laadklep-21.jpg</url>
+			<bestandsnaam>51942414-21.jpg</bestandsnaam>
+			<omschrijving></omschrijving>
+		</afbeelding>
+		<afbeelding nr="22">
+			<url>https://do-not-embed.dv.nl/i/TMggciMsj8Tj5Uj60PLo-NijFlrEeWXgkxw438gY5YO0pw==/DAF-LF-55-220-4x2-Kogelkoppeling-plus-Laadklep-22.jpg</url>
+			<bestandsnaam>51942414-22.jpg</bestandsnaam>
+			<omschrijving></omschrijving>
+		</afbeelding>
+		<afbeelding nr="23">
+			<url>https://do-not-embed.dv.nl/i/TMggciMsj8Tq5Uj60PLo-NijFlrEeWXgkxw4r9VNKFf7nw==/DAF-LF-55-220-4x2-Kogelkoppeling-plus-Laadklep-23.jpg</url>
+			<bestandsnaam>51942414-23.jpg</bestandsnaam>
+			<omschrijving></omschrijving>
+		</afbeelding>
+		<afbeelding nr="24">
+			<url>https://do-not-embed.dv.nl/i/TMggciMsj8Tu5Uj60PLo-NijFlrEeWXgkxw4vVh5q3RFKQ==/DAF-LF-55-220-4x2-Kogelkoppeling-plus-Laadklep-24.jpg</url>
+			<bestandsnaam>51942414-24.jpg</bestandsnaam>
+			<omschrijving></omschrijving>
+		</afbeelding>
+		<afbeelding nr="25">
+			<url>https://do-not-embed.dv.nl/i/TMggciMsj8Sz5Uj60PLo-NijFlrEeWXgkxw4yj0mXpX9xQ==/DAF-LF-55-220-4x2-Kogelkoppeling-plus-Laadklep-25.jpg</url>
+			<bestandsnaam>51942414-25.jpg</bestandsnaam>
+			<omschrijving></omschrijving>
+		</afbeelding>
+		<afbeelding nr="26">
+			<url>https://do-not-embed.dv.nl/i/TMggciMsj8T15Uj60PLo-NijFlrEeWXgkxw4tT_FIJeEwA==/DAF-LF-55-220-4x2-Kogelkoppeling-plus-Laadklep-26.jpg</url>
+			<bestandsnaam>51942414-26.jpg</bestandsnaam>
+			<omschrijving></omschrijving>
+		</afbeelding>
+		<afbeelding nr="27">
+			<url>https://do-not-embed.dv.nl/i/TMggciMsj8S65Uj60PLo-NijFlrEeWXgkxw47FjUvDf2fw==/DAF-LF-55-220-4x2-Kogelkoppeling-plus-Laadklep-27.jpg</url>
+			<bestandsnaam>51942414-27.jpg</bestandsnaam>
+			<omschrijving></omschrijving>
+		</afbeelding>
+		<afbeelding nr="28">
+			<url>https://do-not-embed.dv.nl/i/TMggciMsj8Sw5Uj60PLo-NijFlrEeWXgkxw4nf2xQ_WnsA==/DAF-LF-55-220-4x2-Kogelkoppeling-plus-Laadklep-28.jpg</url>
+			<bestandsnaam>51942414-28.jpg</bestandsnaam>
+			<omschrijving></omschrijving>
+		</afbeelding>
+		<afbeelding nr="29">
+			<url>https://do-not-embed.dv.nl/i/TMggciMsj8S75Uj60PLo-NijFlrEeWXgkxw4QHcyKhH5hQ==/DAF-LF-55-220-4x2-Kogelkoppeling-plus-Laadklep-29.jpg</url>
+			<bestandsnaam>51942414-29.jpg</bestandsnaam>
+			<omschrijving></omschrijving>
+		</afbeelding>
+		<afbeelding nr="30">
+			<url>https://do-not-embed.dv.nl/i/TMggciMsj8Sh5Uj60PLo-NijFlrEeWXgkxw4wNxmFjn1_w==/DAF-LF-55-220-4x2-Kogelkoppeling-plus-Laadklep-30.jpg</url>
+			<bestandsnaam>51942414-30.jpg</bestandsnaam>
+			<omschrijving></omschrijving>
+		</afbeelding>
+	</afbeeldingen>
+	<panoramas/>
+	<videos/>
+	<documenten/>
+	<call-to-actions/>
+	<call-to-actions_engels/>
+	<call-to-actions_duits/>
+	<call-to-actions_frans/>
+	<call-to-actions_spaans/>
+	<call-to-actions_portugees/>
+	<call-to-actions_italiaans/>
+	<call-to-actions_grieks/>
+	<call-to-actions_russisch/>
+	<call-to-actions_roemeens/>
+	<call-to-actions_hongaars/>
+	<call-to-actions_pools/>
+	<call-to-actions_tsjechisch/>
+	<call-to-actions_bulgaars/>
+	<call-to-actions_kroatisch/>
+	<call-to-actions_deens/>
+	<call-to-actions_slowaaks/>
+	<call-to-actions_turks/>
+	<call-to-actions_fins/>
+	<call-to-actions_zweeds/>
+	<call-to-actions_noors/>
+	<unsupportedProperties/>
+	<unsupportedProperties_engels/>
+	<unsupportedProperties_duits/>
+	<unsupportedProperties_frans/>
+	<unsupportedProperties_spaans/>
+	<unsupportedProperties_portugees/>
+	<unsupportedProperties_italiaans/>
+	<unsupportedProperties_grieks/>
+	<unsupportedProperties_russisch/>
+	<unsupportedProperties_roemeens/>
+	<unsupportedProperties_hongaars/>
+	<unsupportedProperties_pools/>
+	<unsupportedProperties_tsjechisch/>
+	<unsupportedProperties_bulgaars/>
+	<unsupportedProperties_kroatisch/>
+	<unsupportedProperties_deens/>
+	<unsupportedProperties_slowaaks/>
+	<unsupportedProperties_turks/>
+	<unsupportedProperties_fins/>
+	<unsupportedProperties_zweeds/>
+	<unsupportedProperties_noors/>
+	<aanwezige_cabine/>
+	<bandensoorten/>
+	<non-markingbanden/>
+	<aantal_europallets/>
+	<min_koppelschotelhoogte/>
+	<max_koppelschotelhoogte/>
+	<bekledingcode/>
+	<types_heftruck_acculader/>
+	<productienummer/>
+	<fabrikant>
+		<naam>Nijwa Used Trucks</naam>
+		<straat>Vormerij</straat>
+		<huisnummer>12</huisnummer>
+		<huisnummer_extensie>12</huisnummer_extensie>
+		<postcode>7621HL</postcode>
+		<provincie>OV</provincie>
+		<plaats>BORNE</plaats>
+		<land>nl</land>
+		<telefoon>0742472500</telefoon>
+		<website>http://www.nijwausedtrucks.nl</website>
+		<email>usedtrucks@nijwa.nl</email>
+	</fabrikant>
+	<eu-verantwoordelijke>
+		<naam/>
+		<straat/>
+		<huisnummer/>
+		<huisnummer_extensie/>
+		<postcode/>
+		<provincie/>
+		<plaats/>
+		<land/>
+		<telefoon/>
+		<website/>
+		<email/>
+	</eu-verantwoordelijke>
+</voertuig>
