@@ -47,10 +47,35 @@ class HexonParser2_25(HexonParserBase):
         'title': xpath('type'),
         'price': xpath('verkoopprijs_particulier/prijzen[@land="nl"]/prijs/bedrag'),
         'brand': xpath('merk_orig'),
-        'axleconfig_svg': xpath('asconfiguratie_svg'),
+        'axleconfig_svg': method('sanitize_axleconfig_svg'),
         'accessories': method('parse_accessories'),
         'images': method('parse_images'),
     }
+
+    def sanitize_axleconfig_svg(self, data):
+        def _validate_noscript(element):
+            if element.tag.startswith('{'):
+                tag = element.tag.split('}')[1]
+            else:
+                tag = element.tag
+            return 'script' != tag.lower()
+
+        def _validate_attributes(element):
+            {key.lower() for key in element.attrib.keys()}
+            for key, value in element.attrib.items():
+                key = key.lower()
+                if key.startswith('on'):  # no event handlers allowed
+                    return False
+                if key in ['href', 'xlink:href']:  # protect against javascript href
+                    if value.startswith('javascript:'):
+                        return False
+            return True
+
+        raw_svg = data.find('asconfiguratie_svg').text
+        for element in ElementTree.fromstring(raw_svg).iter():
+            if not _validate_noscript(element) or not _validate_attributes(element):
+                return b''
+        return raw_svg
 
     def parse_accessories(self, data):
         return sorted(

@@ -14,7 +14,7 @@ class Vehicle(Page):
     price = models.CharField(max_length=20)
     brand = models.CharField(max_length=200)
     accessories = models.JSONField()
-    axleconfig_svg = models.CharField(max_length=2048, null=True)
+    axleconfig_svg = models.CharField(max_length=20000, null=True)
 
     content_panels = Page.content_panels + [
         InlinePanel('images')
