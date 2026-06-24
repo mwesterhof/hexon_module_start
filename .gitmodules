@@ -1,0 +1,3 @@
+[submodule "hexon"]
+	path = hexon
+	url = git@github.com:Verzameldwerk/hexon_wagtail.git
