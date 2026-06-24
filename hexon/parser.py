@@ -47,8 +47,22 @@ class HexonParser2_25(HexonParserBase):
         'title': xpath('type'),
         'price': xpath('verkoopprijs_particulier/prijzen[@land="nl"]/prijs/bedrag'),
         'brand': xpath('merk_orig'),
+        'axleconfig_svg': xpath('asconfiguratie_svg'),
+        'accessories': method('parse_accessories'),
         'images': method('parse_images'),
     }
+
+    def parse_accessories(self, data):
+        return sorted(
+            [
+                {
+                    'name': accessory.find('naam').text,
+                    'priority': accessory.find('prioriteit').text,
+                    'order': accessory.find('volgorde').text,
+                }
+                for accessory in data.findall('accessoires/accessoire')
+            ], key=lambda a: a['order']
+        )
 
     def parse_images(self, data):
         return [

@@ -1,0 +1,13 @@
+<h2>accessories</h2>
+<table>
+    <tr>
+        <th>name</th>
+        <th>priority</th>
+    </tr>
+    {% for acc in self.instance.accessories %}
+    <tr>
+        <td>{{ acc.name }}</td>
+        <td>{{ acc.priority }}</td>
+    </tr>
+    {% endfor %}
+</table>
