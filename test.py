@@ -5,7 +5,7 @@ with open('example.xml') as example_file:
 
 print(len(example))
 
-url = 'http://localhost:8000/en/stock/api/mutate/'
+url = 'http://localhost:8000/hexon/api/mutate/'
 
 with open('example.xml', 'rb') as f:
     response = requests.post(

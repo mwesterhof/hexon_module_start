@@ -15,7 +15,7 @@ urlpatterns = [
     path("django-admin/", admin.site.urls),
     path("admin/", include(wagtailadmin_urls)),
     path("documents/", include(wagtaildocs_urls)),
-    path("hexon-debug/", include(hexon_urls)),
+    path("hexon/", include(hexon_urls)),
 ]
 
 

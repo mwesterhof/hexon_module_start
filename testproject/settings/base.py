@@ -25,7 +25,6 @@ BASE_DIR = PROJECT_DIR.parent
 
 INSTALLED_APPS = [
     "hexon",
-    "wagtail_app_pages",
     "home",
     "search",
     "wagtail.contrib.forms",
@@ -38,8 +37,9 @@ INSTALLED_APPS = [
     "wagtail.images",
     "wagtail.search",
     "wagtail.admin",
-    "wagtail.locales",
     "wagtail",
+    "wagtail_localize",
+    "wagtail_localize.locales",
     "modelcluster",
     "taggit",
     "django_filters",
@@ -79,7 +79,6 @@ TEMPLATES = [
                 "django.template.context_processors.request",
                 "django.contrib.auth.context_processors.auth",
                 "django.contrib.messages.context_processors.messages",
-                "wagtail_app_pages.context_processors.parent_page",
             ],
         },
     },
@@ -197,3 +196,8 @@ WAGTAILDOCS_MAX_UPLOAD_SIZE = 10 * 1024 * 1024  # 10MB
 
 HEXON_VEHICLE_MODEL = 'home.Vehicle'
 HEXON_VEHICLE_STOCK_MODEL = 'home.VehicleStock'
+
+HEXON_LANGUAGE_SUFFIXES = {
+    'nl': ('', '_nederlands'),
+    'en': ('_engels',),
+}
