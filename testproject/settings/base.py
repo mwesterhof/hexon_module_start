@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     "wagtail.images",
     "wagtail.search",
     "wagtail.admin",
+    "wagtail.locales",
     "wagtail",
     "modelcluster",
     "taggit",
@@ -55,6 +56,7 @@ MIDDLEWARE = [
     "django.contrib.sessions.middleware.SessionMiddleware",
     "django.middleware.common.CommonMiddleware",
     "hexon.middleware.SuppressCsrfForHexonMiddleware",
+    "django.middleware.locale.LocaleMiddleware",
     "django.middleware.csrf.CsrfViewMiddleware",
     "django.contrib.auth.middleware.AuthenticationMiddleware",
     "django.contrib.messages.middleware.MessageMiddleware",
@@ -119,11 +121,17 @@ AUTH_PASSWORD_VALIDATORS = [
 # Internationalization
 # https://docs.djangoproject.com/en/6.0/topics/i18n/
 
-LANGUAGE_CODE = "en-us"
+LANGUAGE_CODE = "en"
+
+WAGTAIL_CONTENT_LANGUAGES = LANGUAGES = [
+    ('en', "English"),
+    ('nl', "Dutch"),
+]
 
 TIME_ZONE = "UTC"
 
 USE_I18N = True
+WAGTAIL_I18N_ENABLED = True
 
 USE_TZ = True
 
@@ -186,3 +194,6 @@ WAGTAILDOCS_EXTENSIONS = ['csv', 'docx', 'key', 'odt', 'pdf', 'pptx', 'rtf', 'tx
 
 # Maximum upload size for documents in bytes.
 WAGTAILDOCS_MAX_UPLOAD_SIZE = 10 * 1024 * 1024  # 10MB
+
+HEXON_VEHICLE_MODEL = 'home.Vehicle'
+HEXON_VEHICLE_STOCK_MODEL = 'home.VehicleStock'
