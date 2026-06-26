@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     "wagtail.search",
     "wagtail.admin",
     "wagtail",
+    "wagtail_app_pages",
     "wagtail_localize",
     "wagtail_localize.locales",
     "modelcluster",
@@ -199,4 +200,9 @@ HEXON_VEHICLE_STOCK_MODEL = 'home.VehicleStock'
 HEXON_LANGUAGE_SUFFIXES = {
     'nl': ('', '_nederlands'),
     'en': ('_engels',),
+}
+
+HEXON_CREDENTIALS = {
+    'username': b'vzw',
+    'password': b'secret',
 }
