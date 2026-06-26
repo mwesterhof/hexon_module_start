@@ -1,19 +1,17 @@
-from django.db import models
-
 from wagtail.models import Page
 
-from hexon.models import Vehicle as BaseVehicle, VehicleStock as BaseVehicleStock
+from hexon.models import VehicleBase, VehicleStockBase
 
 
 class HomePage(Page):
     subpage_types = ['home.VehicleStock']
 
 
-class Vehicle(BaseVehicle):
+class Vehicle(VehicleBase):
     subpage_types = []
     parent_page_types = ['home.VehicleStock']
 
 
-class VehicleStock(BaseVehicleStock):
+class VehicleStock(VehicleStockBase):
     subpage_types = ['home.VehicleStock']
     parent_page_types = ['home.HomePage']
